@@ -6,7 +6,39 @@ hash = "605e9047a563c5c8396ffb18232aa4304ec56586aee537c45064c6fb425e44ad"
 
 [[files]]
 file = "README.md"
-hash = "63f4c0e601f2a7fef39e89369038c77ee1704546f83ef277db1e653536022e57"
+hash = "b25395803bbe1983ac715144aec1e38cca97dc0d5dd147392abbf9b91704053b"
+
+[[files]]
+file = "TODO.md"
+hash = "7e44c883862f8c06d82c5ed73b0e853096692b36d92facc6c07aa1659e98ab6b"
+
+[[files]]
+file = "configureddefaults/kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "configureddefaults/kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "configureddefaults/kubejs/config/web_server.json"
+hash = "f71e2f86588b423cc39b9f7b4777c8b097457a4486920b0c18afd617ddb3c9d5"
+
+[[files]]
+file = "datapacks/blueberryAero/data/blooming_biosphere/worldgen/configured_feature/jungle/trees/fancy_dark_oak_azalea.json"
+hash = "f98017876429d82e251c994e97dd4460e4daf615e4c3eb4f858c3c84ed40792e"
+
+[[files]]
+file = "datapacks/blueberryAero/data/blooming_biosphere/worldgen/configured_feature/oak_forest/trees/fancy_dark_oak_azalea.json"
+hash = "60cf4981aff5e7fff6a1e99e40ffb7a37758bad32fd5ef570e743c3e0f03f365"
+
+[[files]]
+file = "datapacks/blueberryAero/pack.mcmeta"
+hash = "b8c9b92a4655eda6f3dab454dd4b6f13b5e7e9e24ab8cece686cee897a20c594"
+
+[[files]]
+file = "datapacks/blueberryAero/pack.png"
+hash = "667b9c0fbebd7a2486400150e908472a44986b9bba88426a1ac44e14c293d52a"
 
 [[files]]
 file = "mods/0pack2reload.pw.toml"
@@ -111,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/betterdays.pw.toml"
 hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
-metafile = true
-
-[[files]]
-file = "mods/blooming-biosphere.pw.toml"
-hash = "0a4a096ab2c285a1ef789ccd733a0963aa8b4eaab40b37dc0df541d097f170e5"
 metafile = true
 
 [[files]]
@@ -881,11 +908,6 @@ metafile = true
 [[files]]
 file = "mods/updating-world-icon.pw.toml"
 hash = "049242d53616cd1cafd66ef3f122ab9faa52c9e0713cb5ad751e1a9339ba94a1"
-metafile = true
-
-[[files]]
-file = "mods/vista-aeronautics-fix.pw.toml"
-hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
 metafile = true
 
 [[files]]

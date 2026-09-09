@@ -22,6 +22,9 @@ todo
     - Datapacks
 - Configure Sparce Structures
 - Configure Aeronautics Camera Sync
+- Disable Deep Seas setup warning
+- Disable AnalogLib Audio setup warning
+- Fix config overlap on main menu
 
 ### Removals
 
