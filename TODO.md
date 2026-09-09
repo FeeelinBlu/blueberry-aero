@@ -27,6 +27,8 @@ todo
 - Disable AnalogLib Audio setup warning
 - Fancy Menu
     - Fix config overlap on main menu
+- Disable Hot's Aerostuff Copycat Sails
+- Disable all Create Propulsion: Simulated wings
 
 ### Removals
 
