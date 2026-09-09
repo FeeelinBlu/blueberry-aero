@@ -21,6 +21,7 @@ todo
     - Resource Packs
     - Datapacks
 - Configure Sparce Structures
+- Configure Aeronautics Camera Sync
 
 ### Removals
 
@@ -43,6 +44,10 @@ todo
 - Fancy Menu
 - Item Descriptions
 - Structure Mods
+- Yeetus Narratus (Currently missing on Modrinth for unknown reasons)
+    - NarrusYeetus (Alternative)
+- Backpack Mods
+- Chunk/Sable Claims
 
 ### Other
 

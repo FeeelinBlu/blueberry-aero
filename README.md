@@ -1,2 +1,2 @@
-# blueberry aero
- A Create Aeronautics Modpack
+# Blueberry Flavored Aeronautics
+ A Create Aeronautics centered modpack
