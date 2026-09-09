@@ -6,6 +6,7 @@ todo
 - Resource Packs
     - Create: ComputerCraft (CC: Tweaked)
 - Roxy
+- Blooming Biosphere + Tectonic Compat
 
 ### Changes
 
@@ -13,7 +14,7 @@ todo
 - Disable problematic Create Aeronautics: Gadgets & Gizmos items
 - Disable problematic Create: Dreams & Desires items
 - Disable Quark Vertical Slabs
-- Configure Accessories
+- Configure Accessories/Curios
 - Configure Better Days
 - Configure Supplementaries
 - Configure Configured Defaults
