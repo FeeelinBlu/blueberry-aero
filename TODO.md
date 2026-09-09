@@ -24,7 +24,8 @@ todo
 - Configure Aeronautics Camera Sync
 - Disable Deep Seas setup warning
 - Disable AnalogLib Audio setup warning
-- Fix config overlap on main menu
+- Fancy Menu
+    - Fix config overlap on main menu
 
 ### Removals
 
@@ -44,7 +45,6 @@ todo
     - Easy Anvils
     - Easy Magic
     - Easy Shulker Boxes
-- Fancy Menu
 - Item Descriptions
 - Structure Mods
 - Yeetus Narratus (Currently missing on Modrinth for unknown reasons)
