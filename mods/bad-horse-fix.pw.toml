@@ -1,0 +1,13 @@
+name = "Bad Horse Fix"
+filename = "badhorsefix-neoforge-3.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A4pJeHgM/versions/fdX9GPvn/badhorsefix-neoforge-3.0.1.jar"
+hash-format = "sha512"
+hash = "63201d4880fb15e9c57988f7f7ee27b7bc937b8cea1db8522d0b67a1f5c7becccc043e850cc55455c1ca6c69a3abcf7a891d3759ec58e3c45661f51362b90bc5"
+
+[update]
+[update.modrinth]
+mod-id = "A4pJeHgM"
+version = "fdX9GPvn"
