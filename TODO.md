@@ -18,8 +18,6 @@ todo
 - Configure Sparce Structures
 - Configure Aeronautics Camera Sync
 - Disable Deep Seas setup warning
-- Fancy Menu
-    - Fix config overlap on pause menu
 - Disable Simple Voice Chat chat message
 - Configure Reliable EMI Groups
 - Disable Items in EMI
@@ -30,6 +28,7 @@ todo
         - Contraption Mover
         - Contraption Cloner
         - Contraption Remover
+- Server Config
 
 ### Removals
 
@@ -39,6 +38,7 @@ todo
 
 - Icon/Logo
     - Datapack Icon
+- FancyMenu
     
 ### Debating
 
