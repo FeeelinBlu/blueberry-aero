@@ -3,17 +3,11 @@ todo
 ## TODO
 ### Additions
 
-- Resource Packs
-    - Create: ComputerCraft (CC: Tweaked)
 - Roxy
 - Blooming Biosphere + Tectonic Compat
 
 ### Changes
 
-- Disable problematic Create: Ultimate Factory recipes
-- Disable problematic Create Aeronautics: Gadgets & Gizmos items
-- Disable problematic Create: Dreams & Desires items
-- Disable Quark Vertical Slabs
 - Configure Accessories/Curios
 - Configure Better Days
 - Configure Supplementaries
@@ -24,11 +18,18 @@ todo
 - Configure Sparce Structures
 - Configure Aeronautics Camera Sync
 - Disable Deep Seas setup warning
-- Disable AnalogLib Audio setup warning
 - Fancy Menu
-    - Fix config overlap on main menu
-- Disable Hot's Aerostuff Copycat Sails
-- Disable all Create Propulsion: Simulated wings
+    - Fix config overlap on pause menu
+- Disable Simple Voice Chat chat message
+- Configure Reliable EMI Groups
+- Disable Items in EMI
+    - "Creative" items
+    - Create Propulsion Simulated
+        - Auto Assembly
+        - Auto Glue
+        - Contraption Mover
+        - Contraption Cloner
+        - Contraption Remover
 
 ### Removals
 

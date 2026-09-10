@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".TODO.md.kate-swp"
+hash = "11f8bd8f59c0714db7454485ee5120f8ea2ee817717fa15363dcfd88f404e627"
+
+[[files]]
 file = "LICENSE"
 hash = "605e9047a563c5c8396ffb18232aa4304ec56586aee537c45064c6fb425e44ad"
 
@@ -10,11 +14,7 @@ hash = "b25395803bbe1983ac715144aec1e38cca97dc0d5dd147392abbf9b91704053b"
 
 [[files]]
 file = "TODO.md"
-hash = "831cde4101f9d0bbf78000e21944d092636730023c4ba90c214db2763ff44998"
-
-[[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+hash = "695f0446e9c222fd1e30a6e5196d6320d36941bf613b7c46ead557ffe229f261"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -25,68 +25,28 @@ file = "config/fancymenu/customization/title_screen_layout.txt"
 hash = "54bc9b0031d4112d73eadeea0c3be0df8107fb7136bbb27da88bd79ea3182b3f"
 
 [[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
-
-[[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
 file = "config/fancymenu/options.txt"
 hash = "8ab246f419b5b363ab186db80fad034e743675450c90cca80f1f4aef1dd813c6"
 
 [[files]]
-file = "config/fancymenu/ui_themes/cherry_blossom.json"
-hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+file = "config/reliable_remover/remove_items.json"
+hash = "13be8e38b940d323f7dfd1441f2e4a3f666f4a5980d2c0e09396389d494de0a7"
 
 [[files]]
-file = "config/fancymenu/ui_themes/cozy_campfire.json"
-hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+file = "configureddefaults/config/aero_cam_sync-client.toml"
+hash = "43c766c084c6919984fbc5975c47e8565297781dd7f661503f59829cd3fc00fb"
 
 [[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+file = "configureddefaults/config/gpu_booster_config.txt"
+hash = "3572ac96eee7c7a16116ab83ccaea7424188ec0c53c3de879230dde545498480"
 
 [[files]]
-file = "config/fancymenu/ui_themes/dark_high_contrast.json"
-hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+file = "configureddefaults/config/xaero/minimap/client.cfg"
+hash = "80c77d2c2882d29b5ae19be7588b19fd6e9ef6ef1a9b66feda121bde76943263"
 
 [[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light_high_contrast.json"
-hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
-
-[[files]]
-file = "config/fancymenu/ui_themes/pumpkin_soup.json"
-hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
-
-[[files]]
-file = "config/fancymenu/ui_themes/purple_void.json"
-hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
-
-[[files]]
-file = "config/fancymenu/ui_themes/spooky_season.json"
-hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
-
-[[files]]
-file = "configureddefaults/kubejs/config/client.json"
-hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
-
-[[files]]
-file = "configureddefaults/kubejs/config/common.json"
-hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
-
-[[files]]
-file = "configureddefaults/kubejs/config/web_server.json"
-hash = "f71e2f86588b423cc39b9f7b4777c8b097457a4486920b0c18afd617ddb3c9d5"
+file = "configureddefaults/config/xaero/minimap/profiles/default.cfg"
+hash = "296aceebe8da499ae1dc56b1c70a1f1b2be93dba806cedc2e8ecbce7263d6be6"
 
 [[files]]
 file = "configureddefaults/options.txt"
@@ -99,6 +59,22 @@ hash = "b8c9b92a4655eda6f3dab454dd4b6f13b5e7e9e24ab8cece686cee897a20c594"
 [[files]]
 file = "datapacks/blueberryAero/pack.png"
 hash = "667b9c0fbebd7a2486400150e908472a44986b9bba88426a1ac44e14c293d52a"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "f71e2f86588b423cc39b9f7b4777c8b097457a4486920b0c18afd617ddb3c9d5"
+
+[[files]]
+file = "kubejs/server_scripts/remove_recipes.js"
+hash = "d31ea8301b3ee1ac6b10978032caadbf561ac375f98aaab3a7741083f177ad0f"
 
 [[files]]
 file = "mods/0pack2reload.pw.toml"
@@ -481,11 +457,6 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "cfbd7a92f45f86525943cb057927def356fe9f579e4ddb48bb24c897233136ca"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
@@ -781,11 +752,6 @@ hash = "522ea92e4206f8d0b823e444fea75d8c6897261863b17c7c5bf16e26195a7cdb"
 metafile = true
 
 [[files]]
-file = "mods/pretty-rain.pw.toml"
-hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
-metafile = true
-
-[[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
@@ -801,6 +767,11 @@ hash = "bf8cd0c2e1eeb8ca46d64f7e36d496475e7cb1cdf2af38639adb2672b71e48db"
 metafile = true
 
 [[files]]
+file = "mods/reliable-emi.pw.toml"
+hash = "1bbc8b7c25bac7b13b623f270c73b79d608ff20d16c95c6ae611633634357765"
+metafile = true
+
+[[files]]
 file = "mods/reliable-recipes.pw.toml"
 hash = "bcd024534d03a03adf149c11dad52024f2fc81a4790cd941127de3f64f1250fc"
 metafile = true
@@ -808,6 +779,11 @@ metafile = true
 [[files]]
 file = "mods/reliable-remover.pw.toml"
 hash = "5363c3ecf1ae17968e0549e14b26d139ce337f2058c55373ad4607c6fe78942e"
+metafile = true
+
+[[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
 metafile = true
 
 [[files]]
@@ -1053,6 +1029,11 @@ metafile = true
 [[files]]
 file = "mods/zfastnoise.pw.toml"
 hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-computercraft.pw.toml"
+hash = "d1eedbc027b542abaabb1323cb57c42c8f445121d6a9d619a4b0bb220164d3ac"
 metafile = true
 
 [[files]]

@@ -1,0 +1,6 @@
+{
+  "id": "blueberry_aero:leaf_carpets",
+  "type": "remi:regex",
+  "regex": "quark:.*_leaf_carpet",
+  "name": "Leaf Carpets"
+}
