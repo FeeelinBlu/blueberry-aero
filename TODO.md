@@ -28,6 +28,7 @@ todo
         - Contraption Mover
         - Contraption Cloner
         - Contraption Remover
+    - Quark Ominous Flag
 - Server Config
 
 ### Removals
