@@ -57,6 +57,7 @@ todo
     - NarrusYeetus (Alternative)
 - Backpack Mods
 - Chunk/Sable Claims
+- Sable Beyond
 
 ### Other
 
