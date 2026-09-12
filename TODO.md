@@ -58,6 +58,7 @@ todo
 - Backpack Mods
 - Chunk/Sable Claims
 - Sable Beyond
+- Create Aeronautics: Stabilized
 
 ### Other
 
