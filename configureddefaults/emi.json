@@ -64,6 +64,7 @@
     "item:create_aeronautics_toolgun:survival_structure_tool",
     "item:create_aeronautics_toolgun:magnetic_gun",
     "item:create_aeronautics_toolgun:portable_structure_container",
-    "item:create_aeronautics_toolgun:disposable_vehicle_container"
+    "item:create_aeronautics_toolgun:disposable_vehicle_container",
+    "item:create_connected:charged_kinetic_battery"
   ]
 }

@@ -65,7 +65,7 @@
             "createpropulsion:coral_generator",
             "createpropulsion:cable",
             "createpropulsion:cable_relay",
-            "aeronautics_utility_objects:dampening_stress_bearing"
+            "aeronautics_utility_objects:damping_stress_bearing"
         ]
     }
 ]
