@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".TODO.md.kate-swp"
-hash = "11f8bd8f59c0714db7454485ee5120f8ea2ee817717fa15363dcfd88f404e627"
-
-[[files]]
 file = "LICENSE"
 hash = "605e9047a563c5c8396ffb18232aa4304ec56586aee537c45064c6fb425e44ad"
 
@@ -14,11 +10,19 @@ hash = "b25395803bbe1983ac715144aec1e38cca97dc0d5dd147392abbf9b91704053b"
 
 [[files]]
 file = "TODO.md"
-hash = "695f0446e9c222fd1e30a6e5196d6320d36941bf613b7c46ead557ffe229f261"
+hash = "ba02b9f736b3e703b89e266d2725f1b34090d65f602b21119886417b631e21b9"
 
 [[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+file = "config/CSC/config.toml"
+hash = "582296e853bf6e425c2dbf76cfea3e3dfdd46efe6ceec230e2b7ac3a7cfec10a"
+
+[[files]]
+file = "config/create_submarine_client_state.json"
+hash = "49d1634b0e64df89a0cdd544164fff57934faa01d81d786ec47f3eb516b93a5d"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "48b48f574ab56e806cf91b5a18baafc220b357ea66197733165f578ef988c63b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -30,7 +34,7 @@ hash = "8ab246f419b5b363ab186db80fad034e743675450c90cca80f1f4aef1dd813c6"
 
 [[files]]
 file = "config/reliable_remover/remove_items.json"
-hash = "13be8e38b940d323f7dfd1441f2e4a3f666f4a5980d2c0e09396389d494de0a7"
+hash = "02af4d390de8a51ad8b9d4e1e914b0bb67c3d741bc055167808da3442f5e9b98"
 
 [[files]]
 file = "configureddefaults/config/aero_cam_sync-client.toml"
@@ -39,6 +43,26 @@ hash = "43c766c084c6919984fbc5975c47e8565297781dd7f661503f59829cd3fc00fb"
 [[files]]
 file = "configureddefaults/config/gpu_booster_config.txt"
 hash = "3572ac96eee7c7a16116ab83ccaea7424188ec0c53c3de879230dde545498480"
+
+[[files]]
+file = "configureddefaults/config/remi/remi.json"
+hash = "f8226dcaf6ac3837900229692c61dd17b444c33ab3d35540c1ea7f8ffacfc44e"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/leaf_carpets.json"
+hash = "b0bef839309a177a415877155d61c38ff307b97974ff9d5211190dd916dc49c5"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/presents.json"
+hash = "68ad7a6d9c8cf1d2e9e7f0311db84fd15f64da21081b7582a70e75ce0ad7853c"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/stools.json"
+hash = "f3a79a451acd1a460be6da47a61ce9cf4ae0c7c7e0f3769aec8c168d6913c68f"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/trapped_presents.json"
+hash = "73f040c065a30bf942b21217a47c41dea0daa71bece5b0edd12288584e47c77b"
 
 [[files]]
 file = "configureddefaults/config/xaero/minimap/client.cfg"
@@ -287,6 +311,11 @@ hash = "434d92388783bd89bfad57891f43b7bab9b9c3b16800fd1d8de5f76049a2f304"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-toolgun.pw.toml"
+hash = "783a2f396c1420da031f90b14a60b7020bd97d32c76a1bade1980046aa812aba"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-transmission-linkage.pw.toml"
 hash = "fd78380d12b73953fccdf69abd7449233fcce19244dc34378e1f9a1147a976c8"
 metafile = true
@@ -422,6 +451,11 @@ hash = "5931025bb6c50fa9064bd6c3c3ca51afb4119535bd77d8cc01b6509e53a9abc1"
 metafile = true
 
 [[files]]
+file = "mods/createschematicchecker.pw.toml"
+hash = "64b394805f5b0a716f840c5c747e26b735f918bad56ebfde20ab09c1f1179aad"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
@@ -438,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.pw.toml"
-hash = "336cbb7d5737b1590922542c715a15b9406ce79840e846d9424cea7820b560f2"
+hash = "2da99f8f7437cf439a395f163e8b4aa36438990d9949ecc2b66511751551a318"
 metafile = true
 
 [[files]]

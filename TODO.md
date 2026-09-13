@@ -17,7 +17,7 @@ todo
     - Datapacks
 - Configure Sparce Structures
 - Configure Aeronautics Camera Sync
-- Disable Deep Seas setup warning
+- Configure Deep Seas
 - Disable Simple Voice Chat chat message
 - Configure Reliable EMI Groups
 - Disable Items in EMI
@@ -30,6 +30,7 @@ todo
         - Contraption Remover
     - Quark Ominous Flag
     - Create: Sound of Steam Music Roll
+    - All Create Aeronautics: Toolgun items
 - Server Config
 
 ### Removals

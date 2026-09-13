@@ -122,8 +122,8 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.modernfix.config:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
-key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
@@ -154,11 +154,11 @@ key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
 key_quark.keybind.change_hotbar:key.keyboard.z
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
-key_quark.keybind.lock_rotation:key.keyboard.k
+key_quark.keybind.lock_rotation:key.keyboard.unknown
 key_quark.keybind.narrator_readout:key.keyboard.unknown
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown
 key_quark.keybind.variant_selector:key.keyboard.r
-key_accessories.key.open_accessories_screen:key.keyboard.h
+key_accessories.key.open_accessories_screen:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_create_tweaked_controllers.keybind.mouse_focus:key.keyboard.left.alt
@@ -202,9 +202,9 @@ key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.reliable_remover.emi_delete:key.keyboard.delete
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
+key_key.mute_microphone:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.n
-key_key.hide_icons:key.keyboard.h
+key_key.hide_icons:key.keyboard.unknown
 key_key.voice_chat:key.keyboard.v
 key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
@@ -216,7 +216,7 @@ key_gui.xaero_zoom_in:key.keyboard.unknown
 key_gui.xaero_zoom_out:key.keyboard.unknown
 key_gui.xaero_new_waypoint:key.keyboard.b
 key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_enlarge_map:key.keyboard.z
+key_gui.xaero_enlarge_map:key.keyboard.unknown
 key_gui.xaero_toggle_map:key.keyboard.unknown
 key_gui.xaero_toggle_waypoints:key.keyboard.unknown
 key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
@@ -233,7 +233,7 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
-key_key.music_and_melody.playlist:key.keyboard.h
+key_key.music_and_melody.playlist:key.keyboard.unknown
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_world_map_server_settings:key.keyboard.unknown
@@ -249,7 +249,7 @@ key_simulated.keyinfo.scroll_down:key.keyboard.unknown
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.spyglass-improvements.use:key.keyboard.z
-key_key.simple_music_control.next_music_track:key.keyboard.m
+key_key.simple_music_control.next_music_track:key.keyboard.unknown
 key_key.simple_music_control.toggle_music:key.keyboard.unknown
 key_key.kubejs.kubedex:key.keyboard.k
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
@@ -284,10 +284,12 @@ key_key.analogaudio.switch_input_mode:key.keyboard.left.alt
 key_key.aero_cam_sync.toggle:key.keyboard.i
 key_key.aero_cam_sync.open_config:key.keyboard.unknown
 key_key.aero_cam_sync.add_mainhand_item_client:key.keyboard.unknown
+key_key.create_aeronautics_toolgun.open_menu:key.keyboard.tab
+key_key.create_aeronautics_toolgun.rotate_magnetic_object:key.keyboard.tab
 key_key.pipeorgans.midi_config:key.keyboard.semicolon
 key_key.sablecleanup.open_list:key.keyboard.unknown
 key_key.createthrusters.physics_goggles.toggle_force_gizmo:key.keyboard.g
-key_key.createthrusters.physics_goggles.toggle_diagram:key.keyboard.h
+key_key.createthrusters.physics_goggles.toggle_diagram:key.keyboard.unknown
 key_key.createthrusters.physics_goggles.toggle_propulsion:key.keyboard.unknown
 key_key.createthrusters.physics_goggles.diagram_interactive_mode:key.keyboard.j
 key_key.createthrusters.physics_goggles.edit_overlays_mode:key.keyboard.k
@@ -295,7 +297,7 @@ key_key.createthrusters.contraption_network_linker.cycle_scope_mode_modifier:key
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.5066225165562914
-soundCategory_music:0.5023474178403756
+soundCategory_music:0.20892018779342716
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
