@@ -10,15 +10,19 @@ hash = "b25395803bbe1983ac715144aec1e38cca97dc0d5dd147392abbf9b91704053b"
 
 [[files]]
 file = "TODO.md"
-hash = "ba02b9f736b3e703b89e266d2725f1b34090d65f602b21119886417b631e21b9"
+hash = "9e71a5675cb106dc9cf4051886366e91c4c244073624c436b2ef4cab38aeb482"
 
 [[files]]
 file = "config/CSC/config.toml"
-hash = "582296e853bf6e425c2dbf76cfea3e3dfdd46efe6ceec230e2b7ac3a7cfec10a"
+hash = "3ebd4b13bf784da58a486c8600d1a01624c5498530714ce4a6f99be835223350"
 
 [[files]]
 file = "config/create_submarine_client_state.json"
 hash = "49d1634b0e64df89a0cdd544164fff57934faa01d81d786ec47f3eb516b93a5d"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
@@ -73,8 +77,16 @@ file = "configureddefaults/config/xaero/minimap/profiles/default.cfg"
 hash = "296aceebe8da499ae1dc56b1c70a1f1b2be93dba806cedc2e8ecbce7263d6be6"
 
 [[files]]
+file = "configureddefaults/config/xaerohud.txt"
+hash = "2cace215022a0955355c52152c2f221335e6afcd443f3902375b666fdd7dab90"
+
+[[files]]
+file = "configureddefaults/emi.json"
+hash = "7d33b0b8d569964fac786d3b99fc6d2429d5d9c9237149fe4ae9f9d013ea72a2"
+
+[[files]]
 file = "configureddefaults/options.txt"
-hash = "18243f48be3ccfca4a2796c4bf8ea6562d53dbcede3880333afbcd585f348b8c"
+hash = "815867cabcdbb214b6e6d8fe7d092dfb1be79ccc89e4f1c80822c66719cc4bb4"
 
 [[files]]
 file = "datapacks/blueberryAero/pack.mcmeta"
@@ -98,7 +110,7 @@ hash = "f71e2f86588b423cc39b9f7b4777c8b097457a4486920b0c18afd617ddb3c9d5"
 
 [[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
-hash = "d31ea8301b3ee1ac6b10978032caadbf561ac375f98aaab3a7741083f177ad0f"
+hash = "8a3d380bc4622245e61a89f7ca99d1ecdbd8cfb5189516b7110702e64cf08558"
 
 [[files]]
 file = "mods/0pack2reload.pw.toml"

@@ -18,19 +18,7 @@ todo
 - Configure Sparce Structures
 - Configure Aeronautics Camera Sync
 - Configure Deep Seas
-- Disable Simple Voice Chat chat message
 - Configure Reliable EMI Groups
-- Disable Items in EMI
-    - "Creative" items
-    - Create Propulsion Simulated
-        - Auto Assembly
-        - Auto Glue
-        - Contraption Mover
-        - Contraption Cloner
-        - Contraption Remover
-    - Quark Ominous Flag
-    - Create: Sound of Steam Music Roll
-    - All Create Aeronautics: Toolgun items
 - Server Config
 
 ### Removals
