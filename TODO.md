@@ -48,6 +48,7 @@ todo
 - Chunk/Sable Claims
 - Sable Beyond
 - Create Aeronautics: Stabilized
+- Second Chance
 
 ### Other
 
