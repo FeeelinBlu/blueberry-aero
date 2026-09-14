@@ -1,21 +1,6 @@
 {
   "favorites": [],
-  "lookup_history": [
-    "item:create_enchantment_industry:super_enchanting_template",
-    "item:create_enchantment_industry:experience_cake_base",
-    "item:quark:seed_pouch{\"quark:item_count\":640,\"quark:stored_item\":{stack:{count:1,id:\"quark:blue_blossom_sapling\"}}}",
-    "item:horseman:copper_horn{\"minecraft:instrument\":\"minecraft:ponder_goat_horn\"}",
-    "item:quark:pathfinders_quill{\"quark:target_biome\":\"minecraft:flower_forest\",\"quark:target_biome_color\":-3258654,\"quark:target_biome_underground\":0b}",
-    "item:supplementaries:timber_frame",
-    "item:supplementaries:bamboo_spikes_tipped{\"minecraft:potion_contents\":{potion:\"minecraft:wind_charged\"}}",
-    "item:quark:thatch",
-    "item:minecraft:spruce_sign",
-    "item:supplementaries:way_sign_jungle",
-    "item:farmersdelight:white_canvas_sign",
-    "item:supplementaries:way_sign_bamboo",
-    "item:minecraft:glass",
-    "item:quark:hollow_spruce_log"
-  ],
+  "lookup_history": [],
   "craft_history": [],
   "recipe_defaults": {
     "added": [],
