@@ -1,0 +1,8 @@
+{
+  "id": "blueberry_aero:stools",
+  "type": "remi:group",
+  "contents": [
+    "#quark:stools"
+  ],
+  "name": "Stools"
+}

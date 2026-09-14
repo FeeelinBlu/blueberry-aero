@@ -1,0 +1,5 @@
+.git/**
+.gitattributes
+TODO.md
+README.md
+LICENSE

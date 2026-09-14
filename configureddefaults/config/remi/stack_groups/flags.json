@@ -1,0 +1,8 @@
+{
+  "id": "blueberry_aero:flags",
+  "type": "remi:group",
+  "contents": [
+    "#supplementaries:flags"
+  ],
+  "name": "Flags"
+}

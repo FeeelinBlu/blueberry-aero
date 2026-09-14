@@ -1,0 +1,9 @@
+{
+  "id": "blueberry_aero:goat_horns",
+  "type": "remi:group",
+  "contents": [
+    "minecraft:goat_horn",
+    "horseman:copper_horn"
+  ],
+  "name": "Goat Horns"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "blueberry_aero:buntings",
+  "type": "remi:group",
+  "contents": [
+    "#supplementaries:buntings"
+  ],
+  "name": "Buntings"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "blueberry_aero:ladders",
+  "type": "remi:group",
+  "contents": [
+    "#c:ladders"
+  ],
+  "name": "Ladders"
+}

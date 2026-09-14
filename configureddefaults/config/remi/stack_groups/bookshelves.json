@@ -1,0 +1,8 @@
+{
+  "id": "blueberry_aero:bookshelves",
+  "type": "remi:group",
+  "contents": [
+    "#c:bookshelves"
+  ],
+  "name": "Bookshelves"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "blueberry_aero:coral",
+  "type": "remi:regex",
+  "regex": "minecraft:.*coral.*",
+  "name": "Coral"
+}

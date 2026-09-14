@@ -1,0 +1,8 @@
+{
+  "id": "blueberry_aero:posts",
+  "type": "remi:group",
+  "contents": [
+    "#quark:posts"
+  ],
+  "name": "Posts"
+}

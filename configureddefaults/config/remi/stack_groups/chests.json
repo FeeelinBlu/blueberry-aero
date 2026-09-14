@@ -1,0 +1,8 @@
+{
+  "id": "blueberry_aero:chests",
+  "type": "remi:group",
+  "contents": [
+    "#c:chests"
+  ],
+  "name": "Chests"
+}

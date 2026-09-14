@@ -1,0 +1,6 @@
+{
+  "id": "blueberry_aero:shingles",
+  "type": "remi:regex",
+  "regex": "quark:.*shingles",
+  "name": "Shingles"
+}

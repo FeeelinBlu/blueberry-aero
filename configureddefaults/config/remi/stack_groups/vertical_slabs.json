@@ -1,0 +1,8 @@
+{
+  "id": "blueberry_aero:vertical_slabs",
+  "type": "remi:group",
+  "contents": [
+    "#quark:vertical_slabs"
+  ],
+  "name": "Vertical Slabs"
+}

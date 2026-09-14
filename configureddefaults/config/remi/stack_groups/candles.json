@@ -1,0 +1,9 @@
+{
+  "id": "blueberry_aero:candles",
+  "type": "remi:group",
+  "contents": [
+    "#minecraft:candles",
+    "#supplementaries:candle_holders"
+  ],
+  "name": "Candles"
+}

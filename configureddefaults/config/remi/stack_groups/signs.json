@@ -1,0 +1,10 @@
+{
+  "id": "blueberry_aero:signs",
+  "type": "remi:group",
+  "contents": [
+    "#minecraft:signs",
+    "#minecraft:hanging_signs",
+    "#supplementaries:way_signs"
+  ],
+  "name": "Signs"
+}

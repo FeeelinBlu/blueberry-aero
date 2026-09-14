@@ -1,0 +1,10 @@
+{
+  "id": "blueberry_aero:glass",
+  "type": "remi:group",
+  "contents": [
+    "#c:glass_blocks",
+    "#c:glass_panes",
+    "#quark:shards"
+  ],
+  "name": "Glass"
+}

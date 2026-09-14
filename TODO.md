@@ -11,7 +11,6 @@ todo
 - Configure Better Days
 - Configure Sleep Vote
 - Configure Supplementaries
-- Configure Configured Defaults
 - Configure Sparce Structures
 - Configure Aeronautics Camera Sync
 - Configure Deep Seas
@@ -54,6 +53,13 @@ todo
 
 ## Release Checklist
 
+- pack.toml version
+- BCC config version
 - Paxi
     - Datapacks
     - Resource Packs
+- Curseforge Items
+    - Mods
+        - SubBorder
+    - Resource Packs
+        - Create: ComputerCraft (CC: Tweaked)

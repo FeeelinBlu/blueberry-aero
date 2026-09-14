@@ -1,0 +1,6 @@
+{
+  "id": "blueberry_aero:corundum",
+  "type": "remi:regex",
+  "regex": "quark:.*corundum.*",
+  "name": "Corundum"
+}

@@ -2,7 +2,8 @@
   "id": "blueberry_aero:presents",
   "type": "remi:group",
   "contents": [
-    "#supplementaries:presents"
+    "#supplementaries:presents",
+    "#supplementaries:trapped_presents"
   ],
   "name": "Presents"
 }

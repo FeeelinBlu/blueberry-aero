@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "605e9047a563c5c8396ffb18232aa4304ec56586aee537c45064c6fb425e44ad"
-
-[[files]]
-file = "README.md"
-hash = "b25395803bbe1983ac715144aec1e38cca97dc0d5dd147392abbf9b91704053b"
-
-[[files]]
-file = "TODO.md"
-hash = "fdc19157c74144967921ede80b90c82258e2c378a09a179db4c5654286ed2157"
-
-[[files]]
 file = "config/CSC/config.toml"
 hash = "3ebd4b13bf784da58a486c8600d1a01624c5498530714ce4a6f99be835223350"
 
@@ -38,7 +26,7 @@ hash = "4f8268892d41a5ee02eeb7311c4c88bbccf8bd51d94c2bf0acd490cbe20ad43f"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "63f0eb3d9a79848bc45bcfdbf42c25552b60caa837caf01e7b18329dfbe3a191"
+hash = "58da5d4cf6a533a22479c5ce5acb1e20eceb5e9ff7f901b22cf374d290afc420"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -51,6 +39,10 @@ hash = "c4a641f9383da6a69922b3308968f90f93b6f43b0783f7626080ceadc8877ad3"
 [[files]]
 file = "configureddefaults/config/aero_cam_sync-client.toml"
 hash = "43c766c084c6919984fbc5975c47e8565297781dd7f661503f59829cd3fc00fb"
+
+[[files]]
+file = "configureddefaults/config/euphoria_patcher/settings.toml"
+hash = "477196e0deb629a46f0f5d59c3fbe88896bf188e4980e7c7fad5d1d607494279"
 
 [[files]]
 file = "configureddefaults/config/gpu_booster_config.txt"
@@ -94,7 +86,7 @@ hash = "390e0a87d74ba537db1eb9ea9d0fd1f65a15bdee897c13e887715ea21ad99b68"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "56e22cfed03a91b987311f7b5e1e72e5724e9d20641eb3327b838571594ea27a"
+hash = "1bfe67b63c7849ad07df74efa5b3988417e686014586160bf9bd52a345037dc5"
 
 [[files]]
 file = "datapacks/blooming-biosphere.pw.toml"
@@ -1115,9 +1107,8 @@ hash = "cbf2e4b6faab400efa6333bbdf66b4f9459fddf8574cdde2e0b084c6f98eaa5c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-computercraft.pw.toml"
-hash = "65881b2d05f14a4eb2d34c62a736bd16086c22264ff7932047c5e0d603bd6e5a"
-metafile = true
+file = "resourcepacks/Create Computers 1.2.1 - 1.20.1.zip"
+hash = "9ecec828b559fab18e11a41741c55e9a8fca48320bba4767a6ddb87bb17e2410"
 
 [[files]]
 file = "resourcepacks/create-ultra-pbr.pw.toml"

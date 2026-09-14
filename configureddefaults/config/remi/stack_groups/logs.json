@@ -1,0 +1,9 @@
+{
+  "id": "blueberry_aero:logs",
+  "type": "remi:group",
+  "contents": [
+    "#minecraft:logs",
+    "#quark:hollow_logs"
+  ],
+  "name": "Logs"
+}
