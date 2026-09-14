@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/j6yrZogB/versions/1FvKl0FJ/smoothgui-neoforge-2.0.5%2Bmc1.21.jar"
-hash-format = "sha512"
-hash = "488fbe488eeb6b8124f51210b7642b465dc63049cca3c32dc0580146faa7dc9ec62cfd91199167b1d913c7059714b19b0b16275b78ed467220edacf0392cefa1"
+hash-format = "sha1"
+hash = "0e1a3f61b327fcdc6e06d0e9c2c088340f9e0aac"
 
 [update]
 [update.modrinth]

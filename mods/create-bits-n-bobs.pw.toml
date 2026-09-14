@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/T8bvmqVZ/versions/4myEhNeB/bits_n_bobs-2.3.2.jar"
-hash-format = "sha512"
-hash = "155781490f1ac51a7dbced1efbc226d7deb14a5734c16d646f9d696424b7e761e9c9623042634aa04c661e19973192220e80e62b5768eb52eaabb9cbc0b1e5e0"
+hash-format = "sha1"
+hash = "39dc63fbb6ae91141615f77d88d28dc4024d6bd0"
 
 [update]
 [update.modrinth]

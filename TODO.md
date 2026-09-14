@@ -4,17 +4,14 @@ todo
 ### Additions
 
 - Roxy
-- Blooming Biosphere + Tectonic Compat
 
 ### Changes
 
 - Configure Accessories/Curios
 - Configure Better Days
+- Configure Sleep Vote
 - Configure Supplementaries
 - Configure Configured Defaults
-- Configure Paxi
-    - Resource Packs
-    - Datapacks
 - Configure Sparce Structures
 - Configure Aeronautics Camera Sync
 - Configure Deep Seas
@@ -54,3 +51,9 @@ todo
 
 - Test Steam 'n' Rails Neoforge
 - Test Create Deco
+
+## Release Checklist
+
+- Paxi
+    - Datapacks
+    - Resource Packs

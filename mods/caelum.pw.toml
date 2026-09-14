@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Xkw3TXqP/versions/n5UXrETV/caelum-3.0.0.1%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "18ff209cbdd3b598377b2440f8fe0f12a330159d718028bff4c93f49862ce978877072a6bef8a9db53839273054525914e6cda833e23a7666ae7950437944296"
+hash-format = "sha1"
+hash = "35eb9795fca39630df1f3e4142a112a028312c4a"
 
 [update]
 [update.modrinth]

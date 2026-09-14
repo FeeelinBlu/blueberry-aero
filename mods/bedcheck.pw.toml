@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lSOP2qKO/versions/Du5xBI1P/sleepvote-neoforge-1.0.0.jar"
-hash-format = "sha512"
-hash = "d7b26fe1b6dac340e2788a21070896bc19b73110dfbaf473ec3613d8044ca82bb14be589c1f34cd7cf2cee1d1b8a5012b52f86337a42a082a448f05d0302eaeb"
+hash-format = "sha1"
+hash = "689d9dc22ff78b66009cc78c4f9223f72f28bdd4"
 
 [update]
 [update.modrinth]

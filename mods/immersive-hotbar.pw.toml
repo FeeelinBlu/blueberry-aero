@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/hsPB5xMD/versions/TYfk2o8E/immersivehotbar-1.2.2-neoforge-1.21-1.21.1.jar"
-hash-format = "sha512"
-hash = "92dce1ef237e0b342ddfa5f7deef1cb539f618d08ae1144b72bf04514842b2a3573f7757715fabf8736244dab8a452f006300aa1168f2f021ae45d7deccc7d7c"
+hash-format = "sha1"
+hash = "8f0a4b2cfb30edb29742950d9a75fb4bdc05091c"
 
 [update]
 [update.modrinth]

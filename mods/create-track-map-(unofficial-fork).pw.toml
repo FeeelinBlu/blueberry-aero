@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NHRXB9Bi/versions/EYyY9A0V/create-track-map-2.1%2Bmc1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "46bf797cdf426c8d12769faacdc43a565cd624200f8bc60675f2d7bd5558d6c0196131cb0921a13f1b7ce3b8d3cbf647fbcbbbe547e552d752632e94412090e1"
+hash-format = "sha1"
+hash = "b4dc2390c4678305aa96c6faedf9e4c54161ec04"
 
 [update]
 [update.modrinth]

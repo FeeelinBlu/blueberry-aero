@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/nUwwB5kx/versions/T9UNQ155/sable-cool-rain-1.0.0%2B1.21.1%2Bneoforge.jar"
-hash-format = "sha512"
-hash = "14fb0c97fc37a0fc4c206da01dec4d1ebbc7355abdad15b2d3ce62300577e92701c7145291ba6a1fb302adad821f66dbcba3158b4fa8cbb111afd0f827bfe6ae"
+hash-format = "sha1"
+hash = "ef32ba01c988917c11dccc8a0fcce9c4e7386f73"
 
 [update]
 [update.modrinth]

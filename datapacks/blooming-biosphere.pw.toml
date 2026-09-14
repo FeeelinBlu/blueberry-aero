@@ -1,0 +1,13 @@
+name = "Blooming Biosphere"
+filename = "blooming-biospshere-v1.1.6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ds9FyUc7/versions/7foC4pVm/blooming-biospshere-v1.1.6.zip"
+hash-format = "sha512"
+hash = "4d02228954e286b3b15524002cd2c0b21e4f71653eb1c75ae95834ee6663b0ab2d63e2454bdae616d1594f2be87a948c6b043e1c3e66798b3ad700e4a85d794f"
+
+[update]
+[update.modrinth]
+mod-id = "Ds9FyUc7"
+version = "7foC4pVm"

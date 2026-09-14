@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/2hl2n0xu/versions/EK7eZaba/0Pack2Reload-NeoForge-1.21.1-1.0.1.jar"
-hash-format = "sha512"
-hash = "48f6da0b521827acab6bf6b443650de2173173fec26cb5c7d7b4cd78aa44cfc4bdef6c41f656443195f466779303ac536b45b3824feb145cc335060ee5bcf925"
+hash-format = "sha1"
+hash = "9654ef43899b5f1e18defdd1eaffc5062e48f39b"
 
 [update]
 [update.modrinth]

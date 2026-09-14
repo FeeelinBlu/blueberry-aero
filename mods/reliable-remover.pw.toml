@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pLxsKvNt/versions/YU1aXAsw/reliable_remover-neoforge-1.21.1-2.12.1.jar"
-hash-format = "sha512"
-hash = "66a35b417978772b94dc0dd04cecfba198873cbc6e77d52dfdccb4b0fd613080a15523bd1359c76067868c33d304b11958519859fbf5d1d7f6d3f6a0bbd0f319"
+hash-format = "sha1"
+hash = "d99e4b44d9f0d07f67315d53ce7cb3c3d8fc9a1c"
 
 [update]
 [update.modrinth]
