@@ -4,13 +4,10 @@ todo
 ### Additions
 
 - Roxy
+    - Server-side LOD
 
 ### Changes
 
-- Configure Accessories/Curios
-- Configure Better Days
-- Configure Sleep Vote
-- Configure Supplementaries
 - Configure Sparce Structures
 - Configure Aeronautics Camera Sync
 - Configure Deep Seas
@@ -31,7 +28,6 @@ todo
 
 - Create Big Cannons
 - Coasters: Engineered
-- Distraction Free Recipes (EMI / REI / JEI)
 - Easy Series
     - Easy Anvils
     - Easy Magic

@@ -5,6 +5,10 @@ file = "config/CSC/config.toml"
 hash = "3ebd4b13bf784da58a486c8600d1a01624c5498530714ce4a6f99be835223350"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "968b28a8023a85398e1bbb94b4a1d52b51f83272e777d74c7541c1b3ed840a2b"
+
+[[files]]
 file = "config/create_submarine_client_state.json"
 hash = "49d1634b0e64df89a0cdd544164fff57934faa01d81d786ec47f3eb516b93a5d"
 
@@ -30,11 +34,15 @@ hash = "58da5d4cf6a533a22479c5ce5acb1e20eceb5e9ff7f901b22cf374d290afc420"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "139e2580ee812ae48d7b6f25b748330bb7652544063e984345d54b7abd2fd6d4"
+hash = "c700bb2f5f76d49ab24d488bf7bba096252b22f91b4e092f1b05c3a0db163069"
 
 [[files]]
 file = "config/reliable_remover/remove_items.json"
 hash = "c4a641f9383da6a69922b3308968f90f93b6f43b0783f7626080ceadc8877ad3"
+
+[[files]]
+file = "config/shadowdrop.json"
+hash = "5e8127b7eb4b9a952ec2d8cfa142abd1824b9a8d8a0435a14521da25400299ca"
 
 [[files]]
 file = "configureddefaults/config/aero_cam_sync-client.toml"
@@ -49,24 +57,100 @@ file = "configureddefaults/config/gpu_booster_config.txt"
 hash = "3572ac96eee7c7a16116ab83ccaea7424188ec0c53c3de879230dde545498480"
 
 [[files]]
+file = "configureddefaults/config/kiwi-client.yaml"
+hash = "6578bc417fc04cc6e57b330bf139a6d48ab5fc9de95638ae283f14975178ac3d"
+
+[[files]]
 file = "configureddefaults/config/remi/remi.json"
-hash = "f8226dcaf6ac3837900229692c61dd17b444c33ab3d35540c1ea7f8ffacfc44e"
+hash = "ed7f04fcda3f337d8a302cdeb8308f977d93176ff0ec65c48dd72c9cbb4bcfc4"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/awnings.json"
+hash = "63f0cc4700f36895c77988bad59c3641db17067725db92d5c9f94768506d3d54"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/bamboo_spikes.json"
+hash = "09941996c155a89475fdb0c6bfb26cf8df20d4344f1904bb64373498bd6a0c24"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/bookshelves.json"
+hash = "76e071980a09450123b44f688cc97c5d481da1305d981d191059aa022987089d"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/buntings.json"
+hash = "b5b639625f99e15b5096f38edd355280f49c5803c1ecbff9069f3534d5886a93"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/candles.json"
+hash = "5cc683b6754bffe7f78fe23b63f02f349ab993548486362df8b40646f78efcf6"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/chests.json"
+hash = "3ab3f7eb40762035aead2b0cb9e01a69272d1bb3fb356584bdbce86d0a229a88"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/coral.json"
+hash = "f46db7a16fed40da9be1af00bf5ef6923b2f06de85cb09fe89a393e767047a3b"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/corundum.json"
+hash = "54c598e0684b13fe02c599750e765c88e49b7cfb11d6fa28dd07caaee76576bb"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/flags.json"
+hash = "b5b9ac3d0402dbad8583cc729c7b2644b2b297b80a3477dbe79873aa56e8c373"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/glass.json"
+hash = "e33c947da7cddc08850124db2f82ccc077b8de3a8a837acec69ef883fbef5afb"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/goat_horns.json"
+hash = "09642a4ea7e590bad9cc3ef7170414cf68caa9bf76b633de73eaadc4eba60539"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/group.json.disabled"
+hash = "f3a79a451acd1a460be6da47a61ce9cf4ae0c7c7e0f3769aec8c168d6913c68f"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/ladders.json"
+hash = "eb66820a4e082661624da1583f5a457ec7e2ffe19d9981e4f0d5e91259b4b3da"
 
 [[files]]
 file = "configureddefaults/config/remi/stack_groups/leaf_carpets.json"
 hash = "b0bef839309a177a415877155d61c38ff307b97974ff9d5211190dd916dc49c5"
 
 [[files]]
+file = "configureddefaults/config/remi/stack_groups/logs.json"
+hash = "514e794eb78317bfd78f2487105a8dd7c1db29d005cb4012d4b3441df1d0cd3f"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/posts.json"
+hash = "367f9340ca7340f0deaa01f08054a7e5c9049eef3d595e3a89d847fca8f6a205"
+
+[[files]]
 file = "configureddefaults/config/remi/stack_groups/presents.json"
-hash = "68ad7a6d9c8cf1d2e9e7f0311db84fd15f64da21081b7582a70e75ce0ad7853c"
+hash = "dfc215e936e71bbc7041e712fb98b3e8353cd3a1622774bf5152657996f9e135"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/regex.json.disabled"
+hash = "e664908b21efa135852fbbcc77dd2fdac768f9257a875273b52dfd0b0cf11e0c"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/shingles.json"
+hash = "e664908b21efa135852fbbcc77dd2fdac768f9257a875273b52dfd0b0cf11e0c"
+
+[[files]]
+file = "configureddefaults/config/remi/stack_groups/signs.json"
+hash = "cb9518797d609e91881fb68e9d97d5ef9677c0e0333524e1d1982a7d4cc76c23"
 
 [[files]]
 file = "configureddefaults/config/remi/stack_groups/stools.json"
 hash = "f3a79a451acd1a460be6da47a61ce9cf4ae0c7c7e0f3769aec8c168d6913c68f"
 
 [[files]]
-file = "configureddefaults/config/remi/stack_groups/trapped_presents.json"
-hash = "73f040c065a30bf942b21217a47c41dea0daa71bece5b0edd12288584e47c77b"
+file = "configureddefaults/config/remi/stack_groups/vertical_slabs.json"
+hash = "5a7d284ba65e9fa68fa063130b36ffea956aa392dbbdbdb3d1fe6891f24bf017"
 
 [[files]]
 file = "configureddefaults/config/xaero/minimap/client.cfg"
@@ -82,7 +166,7 @@ hash = "2cace215022a0955355c52152c2f221335e6afcd443f3902375b666fdd7dab90"
 
 [[files]]
 file = "configureddefaults/emi.json"
-hash = "390e0a87d74ba537db1eb9ea9d0fd1f65a15bdee897c13e887715ea21ad99b68"
+hash = "998285a34d3ada6fb7f3f8a16c7069858123aad7bc89a5a0c0b16f0f0995e299"
 
 [[files]]
 file = "configureddefaults/options.txt"
@@ -143,6 +227,11 @@ hash = "0aabd1822c63ef26c720c020921b0c4970636d05c1baa234635aea9661a7f4af"
 metafile = true
 
 [[files]]
+file = "mods/aerowear.pw.toml"
+hash = "a0b366eb0b182b4017ff3f7e99fe23012fad12b48986e79ce7a105275e29593e"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "66a19dc14a855839d0431d6ad575300a1a4fb0f68e3a5d1a680736fe83eef0cd"
 metafile = true
@@ -200,11 +289,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "d576bcd623d3f8d10841173e0978e1996d8a16b19e2c84c41af54a5dc98fc27d"
-metafile = true
-
-[[files]]
-file = "mods/bedcheck.pw.toml"
-hash = "7c60098a59d099d81866796a1d3e6e5e03e1a69b402604fa6fd7989684ff226c"
 metafile = true
 
 [[files]]
@@ -355,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "bc8f30963bc1f546a6f778887cddc3c0e95ba0be55c4a5ff2813c4b41bc2e3e1"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "210419599e24212d879f58d0b3bacb74dec6d64703f49f1c547440bf7705e942"
 metafile = true
 
 [[files]]
@@ -773,6 +862,11 @@ hash = "b080b65356ae4536aea081b3feca5fc8095e422fc547261f938991d302c08af5"
 metafile = true
 
 [[files]]
+file = "mods/noweatherskip.pw.toml"
+hash = "80e1caa37467490c4705ed95741ac616c901973e13490c601c66e155387a3b71"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "e1a601bbe6c808905b0316f6eb83127b17d32bde4b345441d5dbef5ab20c214a"
 metafile = true
@@ -790,6 +884,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "37ea60e6c08e5fa9d1fb30abbe1fa0899f11ef17b9ff65f4ea05eafa093161ba"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "a5002024b70bba96cdcfdec654d7b224f5386da01b992e8c71225effe7cd8351"
 metafile = true
 
 [[files]]
@@ -935,6 +1034,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "324734c1f2fccbfe8dab128390729bba2f7e2fb300d271f355dc50de927195ed"
+metafile = true
+
+[[files]]
+file = "mods/shadow-drop.pw.toml"
+hash = "90c0315db55764485f375d5b6e8f39c412b367469f2004d3d2ce87805557c5a5"
 metafile = true
 
 [[files]]
@@ -1113,6 +1217,11 @@ hash = "9ecec828b559fab18e11a41741c55e9a8fca48320bba4767a6ddb87bb17e2410"
 [[files]]
 file = "resourcepacks/create-ultra-pbr.pw.toml"
 hash = "5e2d0668e33dc75d99c3b19ce86daf13488dd2b4a824a5d4ee5111063b2b5412"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shiny-hearts.pw.toml"
+hash = "c0102fa8a285a0b5584b6d7c28341fb684677e7610cdc0483e9ca4eae4b07beb"
 metafile = true
 
 [[files]]

@@ -16,6 +16,9 @@
             "createthrusters:bidrectional_gearbox",
             "createthrusters:bi_directional_gearshift",
             "createthrusters:vertical_bidrectional_gearbox",
+            "createthrusters:analogue_joystick",
+            "createthrusters:analogue_contraption_controller",
+            "createthrusters:portable_contraption_controller",
             "createthrusters:advanced_contraption_controller",
             "createthrusters:advanced_portable_contraption_controller",
             "createthrusters:contraption_network_linker",
@@ -38,6 +41,7 @@
             "createthrusters:propulsion_upgrade_t3",
             "createthrusters:propulsion_upgrade_t4",
             "createthrusters:physics_staff",
+            "createthrusters:thruster_bearing",
             "dndesires:lapis_lazuli_shard",
             "dndesires:diamond_shard",
             "dndesires:coal_piece",
@@ -65,7 +69,9 @@
             "createpropulsion:coral_generator",
             "createpropulsion:cable",
             "createpropulsion:cable_relay",
-            "aeronautics_utility_objects:damping_stress_bearing"
+            "aeronautics_utility_objects:damping_stress_bearing",
+            "aeroworks:gyroscope",
+            "createaddition:servo_motor"
         ]
     }
 ]

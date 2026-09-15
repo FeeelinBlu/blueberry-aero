@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -126,10 +126,10 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.mouse.4
 key_quark.keybind.camera_mode:key.keyboard.f12
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
@@ -283,6 +283,7 @@ key_dndesires.keyinfo.saw_active:key.keyboard.left.alt
 key_dndesires.keyinfo.drill_active:key.keyboard.left.alt
 key_key.sable_player_ragdoll.ragdoll:key.keyboard.h
 key_key.analogaudio.switch_input_mode:key.keyboard.left.alt
+key_key.aeroworks.joystick.free_camera:key.keyboard.left.shift
 key_key.aero_cam_sync.toggle:key.keyboard.i
 key_key.aero_cam_sync.open_config:key.keyboard.unknown
 key_key.aero_cam_sync.add_mainhand_item_client:key.keyboard.unknown
@@ -301,7 +302,7 @@ key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.5066225165562914
 soundCategory_music:0.20892018779342716
 soundCategory_record:0.20892018779342736
-soundCategory_weather:0.2065727699530517
+soundCategory_weather:0.704225352112676
 soundCategory_block:0.5070422535211268
 soundCategory_hostile:0.5023474178403756
 soundCategory_neutral:0.5
