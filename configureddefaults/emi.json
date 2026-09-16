@@ -66,6 +66,13 @@
     "item:create_connected:charged_kinetic_battery",
     "item:azimuth:ponder_coordinate",
     "item:dragonlib:dragon",
-    "moonlight:spawn_box"
+    "item:createbigcannons:creative_autocannon_ammo_container",
+    "item:cbc_at:creative_heavy_autocannon_ammo_box",
+    "item:create_pattern_schematics:pattern_schematic",
+    "item:createpropulsion:turpentine_bucket",
+    "item:createpropulsion:turpentine",
+    "item:createpropulsion:pine_resin",
+    "item:moonlight:spawn_box",
+    "item:create_submarine:arresting_hook"
   ]
 }

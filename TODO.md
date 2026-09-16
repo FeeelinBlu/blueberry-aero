@@ -3,16 +3,11 @@ todo
 ## TODO
 ### Additions
 
-- Roxy
-    - Server-side LOD
+- 
 
 ### Changes
 
-- Configure Sparce Structures
-- Configure Aeronautics Camera Sync
-- Configure Deep Seas
 - Configure Reliable EMI Groups
-- Server Config
 
 ### Removals
 
@@ -21,36 +16,24 @@ todo
 ### Custom Content
 
 - Icon/Logo
-    - Datapack Icon
-- FancyMenu
+    - Datapack/Resource Pack icons
+- Splash Text
     
 ### Debating
 
-- Create Big Cannons
-- Coasters: Engineered
-- Easy Series
-    - Easy Anvils
-    - Easy Magic
-    - Easy Shulker Boxes
-- Item Descriptions
-- Structure Mods
-- Yeetus Narratus (Currently missing on Modrinth for unknown reasons)
-    - NarrusYeetus (Alternative)
-- Backpack Mods
 - Chunk/Sable Claims
-- Sable Beyond
+- Item Descriptions
 - Create Aeronautics: Stabilized
-- Second Chance
 
 ### Other
 
-- Test Steam 'n' Rails Neoforge
-- Test Create Deco
+- 
 
 ## Release Checklist
 
 - pack.toml version
 - BCC config version
+- Splash Text mod list
 - Paxi
     - Datapacks
     - Resource Packs

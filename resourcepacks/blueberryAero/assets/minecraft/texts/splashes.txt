@@ -1,0 +1,266 @@
+§bT§dR§fA§dN§bS §eRIGHTS!
+§eIt tastes like §9blueberries§e!
+§9Blueberries§e!
+It's like Minecraft, but better!
+Why is it called splash text?
+The cake is a lie!
+Her name is Caroline!
+I'm out of ideas!
+Mod List:
+0Pack2Reload!
+3d-Skin-Layers!
+Accessories!
+Accessories Compatibility Layer!
+Aeronautics Camera Sync!
+Aerowear!
+Amendments!
+Amplified Nether!
+Analog Audio!
+AppleSkin!
+Architectury!
+Async Logger!
+AttributeFix!
+Azimuth!
+Bad Horse Fix!
+Bad Wither No Cookie Reloaded!
+BadOptimizations!
+Balm!
+Better Advanced Tooltips!
+Better Compatibility Checker!
+BetterDays!
+BetterF3!
+BetterF3 - Spark Module!
+Blueprint!
+Boat Item View!
+Bookshelf!
+CBC Advanced Technology!
+CBC Peripheral!
+CC: Sable!
+CC: Tweaked!
+CC:C Bridge!
+Caelum!
+Cat Loaf!
+Charm of Undying!
+Chat Heads!
+ChatAnimation!
+Cherished Worlds!
+Chunky!
+Cloth Config v15 API!
+Clumps!
+Coasters: Engineered!
+Colorwheel!
+Concurrent Chunk Management Engine!
+Configured Defaults!
+Controlling!
+Cool Rain!
+CoroUtil!
+Create!
+Create Aeronautics!
+Create Aeronautics Lift Fix!
+Create Aeronautics: Toolgun!
+Create Aeronautics: Transmission & Linkage!
+Create Big Cannons!
+Create Bits 'n' Bobs!
+Create Crafts & Additions!
+Create Deco!
+Create Deep Seas!
+Create Diesel Generators!
+Create Dynamic Lights!
+Create Encased!
+Create Gadgets & Gizmos Bundled!
+Create Grappling Hooks!
+Create Propulsion: Simulated!
+Create Railways Navigator!
+Create Slice & Dice!
+Create Stuff & Additions!
+Create Track Map!
+Create: Aeroworks!
+Create: Bells & Whistles!
+Create: Bitterballen!
+Create: Blocks & Bogies!
+Create: Coasters Simulated!
+Create: Connected!
+Create: Copycats+!
+Create: Dragons Plus!
+Create: Dreams n' Desires!
+Create: Enchantment Industry!
+Create: Generators!
+Create: Interiors!
+Create: Numismatics!
+Create: Pattern Schematics!
+Create: Power Grid!
+Create: Sound of Steam!
+Create: Tweaked Controllers!
+Create: Ultimate Factory!
+Create:Schematic Checker!
+CreateBetterFps!
+Creeper Overhaul!
+Cristel Lib!
+Critters and Companions!
+Cubes Without Borders!
+Curios API!
+Cut Through!
+Delight Lib!
+Design n' Decor!
+Distant thunders!
+Distraction Free Recipes (EMI)!
+DragonLib!
+Drip Sounds!
+Dynamic FPS!
+EMI!
+Easy Shulker Boxes!
+Ender's Delight!
+Enderman Overhaul!
+Entity Model Features!
+Entity Texture Features!
+EntityCulling!
+Euphoria Patcher!
+Fancy Entity Renderer!
+FancyMenu!
+Farmer's Delight!
+Fast Noise Mod!
+FastEvent!
+Ferrite Core!
+Forgified Fabric API!
+Fzzy Config!
+GPU Memory Leak Fix!
+GPUBooster!
+GeckoLib 4!
+Golem Overhaul!
+Handcrafted!
+Highlighter!
+Horseman!
+Hot's Aerostuff!
+Iceberg!
+ImmediatelyFast!
+Immersive Hotbar!
+Iris!
+Ixeris!
+Jade!
+Jade Addons!
+Jasione!
+Just Blahaj!
+Just Enough Items!
+Kiwi Library!
+Konkrete!
+Kotlin for Forge!
+Krypton FNP!
+KubeJS!
+Leaves Be Gone!
+Legendary Tooltips!
+Lithium!
+Lithostitched!
+Lootr!
+Luki's Strongholds!
+MaxHealthFix!
+Melody!
+ModderNameLib!
+Model Gap Fix!
+ModernFix!
+Moog's Structure Lib!
+MoogsEndStructures!
+MoogsSoaringStructures!
+MoogsVoyagerStructures!
+Moonlight Lib!
+More Delight!
+Mouse Tweaks!
+Music And Melody!
+My Nether's Delight!
+Naturalist!
+Nature's Compass!
+NetherPortalFix!
+Night Lights!
+No Chat Reports!
+No Chat Restrictions!
+No Telemetry!
+NoWeatherSkip!
+Optimized Block Entities!
+Overflowing Bars!
+Particle Rain!
+Paxi!
+Personality!
+Pick Up Notifier!
+Placebo!
+Platform!
+Polytone!
+Presence Footsteps (NeoForge)!
+PrickleMC!
+Prism!
+Puzzles Lib!
+Quark!
+Rebind Narrator!
+Reliable EMI!
+Reliable Recipes!
+Reliable Remover!
+Remove Stardust Labs Intro Message!
+Resourceful Lib!
+Resourcefulconfig!
+Responsive Shields!
+Rhino!
+Ritchie's Projectile Library!
+Roxy!
+Sable!
+Sable Beyond!
+Sable Cleanup Tools!
+Sable Ragdolls!
+Sable Sublevels on Xaero's Maps!
+Sable: Cool Rain!
+Sable: Ragdoll Corpse!
+Saturn!
+Screenshot to Clipboard!
+Seamless Loading Screen!
+Searchables!
+Second Chance (Forge)!
+Separated Leaves!
+Shadow Drop!
+Simple Music Control!
+Simple Voice Chat!
+SmoothGui!
+Snow! Real Magic!!
+Sodium!
+Sodium Dynamic Lights!
+Sodium Extra!
+SparseStructures!
+Spyglass Improvements!
+Staaaaaaaaaaaack!
+Structure Layout Optimizer!
+Strut Your Stuff!
+SubBorder!
+SuperMartijn642's Config Library!
+Supplementaries!
+Tax Free Levels!
+Tectonic!
+ToadLib!
+Toast Control!
+Towns and Towers!
+Trek!
+TxniLib!
+Universal Bone Meal!
+Universal Sawmill!
+Updating World Icon!
+VS Hose Connectors!
+VanillaBackport!
+Vista!
+Visual Workbench!
+Voxy!
+Voxy Server Side!
+What Are They Up To!
+Xaero's Minimap!
+Xaero's World Map!
+YUNG's API!
+YUNG's Better Desert Temples!
+YUNG's Better Dungeons!
+YUNG's Better End Island!
+YUNG's Better Jungle Temples!
+YUNG's Better Mineshafts!
+YUNG's Better Nether Fortresses!
+YUNG's Better Ocean Monuments!
+YUNG's Better Witch Huts!
+Yeetus Experimentus!
+YetAnotherConfigLib!
+Yyz's Backpack!
+Zeta!
+[Compatibility] Blooming Biosphere & Tectonic!
+create: things and misc!
+oωo!
+spark!
