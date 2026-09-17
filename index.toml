@@ -54,7 +54,11 @@ hash = "58da5d4cf6a533a22479c5ce5acb1e20eceb5e9ff7f901b22cf374d290afc420"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "4ecb1c71d408809cf439bf18fc6ae4f39cee927ab6022fb4d2498045ca629c69"
+hash = "012511d82435307b204f83353fcd68ed8c5961466e8a02585447e1cb54d02a3e"
+
+[[files]]
+file = "config/reliable_remover/remove_items.json"
+hash = "dd6fc73345887272162d905e7138ee2bf23617822fd92e5832ee498a4d99470f"
 
 [[files]]
 file = "config/sable_beyond/common.json"
@@ -300,6 +304,10 @@ metafile = true
 [[files]]
 file = "datapacks/blueberryAero/pack.mcmeta"
 hash = "4fe3c03f44a027550c8da3da72e413803b8605e95df259d8e390aed3a29c96a1"
+
+[[files]]
+file = "datapacks/blueberryAero/pack.png"
+hash = "8022465a31ea2a6b57e561aade7593cf9538daa160be20b19d4b8a68d44efbeb"
 
 [[files]]
 file = "icon.png"
