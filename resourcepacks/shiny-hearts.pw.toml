@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/fJhp04UU/versions/shswYS7i/Shiny%20Hearts.zip"
-hash-format = "sha512"
-hash = "bf664064bebb9807f0afade7d1c5ac6e611c45bd4744bbe5dfc3991b244121e4610f0f0bedbf0922a3d0fabb0a00311ef1cd701691d1b5945921feed9945182d"
+hash-format = "sha1"
+hash = "ea220c22f61adbdf147f9b12cc2e255a12e6c1d9"
 
 [update]
 [update.modrinth]

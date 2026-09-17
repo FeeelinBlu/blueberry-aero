@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PrW3B4fH/versions/BWQxgVOj/sablebeyond-neoforge-1.21.1-v0.5.0.jar"
-hash-format = "sha512"
-hash = "2b0faffcde079b6f87944c1fbfdcfaf99c9780e60e91fba412d5a3bf04af4acd35c51ea15aadc076c99ce07675554f3d8482255312c2c20f686521e386b45eb8"
+hash-format = "sha1"
+hash = "6040db8c52ddd2fe6e9c266a52df8865107e4124"
 
 [update]
 [update.modrinth]

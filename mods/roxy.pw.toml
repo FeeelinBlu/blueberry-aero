@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ap78bKTp/versions/zTJpQNoI/roxy-1.21.1-NeoForge-0.3.2.jar"
-hash-format = "sha512"
-hash = "df53515150730be301b549dec9d70b1acd933266e3ae303e697e8fdcb0e43a060b7471cfb37c598ac3fedb1191feb80fb0f366378f08b9989fa21144a8d3c51e"
+hash-format = "sha1"
+hash = "7eea4d06f496cba00a8616b67fd30a0798d2a6a2"
 
 [update]
 [update.modrinth]

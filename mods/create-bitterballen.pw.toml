@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/16DuAG4k/versions/ivtKd3YL/create_bitterballen%2B1.21.1-1.0.4.jar"
-hash-format = "sha512"
-hash = "4446713ce2211907d4fc4e12f68176b06cd36d869ae783c982418c63ce77953c16533fe68eb102d31f07ff1c364c6383f4c0a940a0bf5a781227ba96fce4810e"
+hash-format = "sha1"
+hash = "439714d6e3fb4926dd83356f019bf51b7571cc66"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/n31RbK1f/polytone-1.21-4.4.0-neoforge.jar"
-hash-format = "sha512"
-hash = "fe05952ddffa47b4e0eabd6e6e7315b0ffee966fa016e5e34bb074d17accaffd07b418fc5e7ca69de90ae9d0be3c6a7144e03c334bd15dbeea731f2438aadf6f"
+hash-format = "sha1"
+hash = "dc5e9c7ae01c4d1748c4b3ba223e8082144e0b29"
 
 [update]
 [update.modrinth]

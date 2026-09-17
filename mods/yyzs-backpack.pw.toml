@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zO7tsTJN/versions/te7Afz7R/yyzsbackpack-0.0.9-reborn%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "ffa724d1743263ca79878b0ac12bc9d603689fce8924588b91ab0b6ba8035894a1a76156413048d1abd1d6faa820e248ca7f827e4631adbe2b7e7a7d63e04abc"
+hash-format = "sha1"
+hash = "9be2293237e3c30766063c4c75d9c3b22a538159"
 
 [update]
 [update.modrinth]
