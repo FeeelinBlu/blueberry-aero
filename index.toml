@@ -567,6 +567,11 @@ hash = "0f0d61a663be06b98cdd865ab9566a9265854a295c95a82fa0383edf2731ee3d"
 metafile = true
 
 [[files]]
+file = "mods/coreprotectneo.pw.toml"
+hash = "27b0db24fd47644b4c1ba0848b1adc372c228af68290089e2e8d8f48f0d1d863"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9d6211af651095fc4be088a228f02973a028437b4b19c1483753e4fd4cf044d7"
 metafile = true
@@ -909,11 +914,6 @@ metafile = true
 [[files]]
 file = "mods/gputape.pw.toml"
 hash = "cf51595ac17ac2649d0093edff8f0ff5831f9420c036b5028bf249576eefaeb4"
-metafile = true
-
-[[files]]
-file = "mods/grieflogger.pw.toml"
-hash = "13911f4d8f13dfe48f1631fd481b535fda34ac5e5f519055ae6e6ef4c346345d"
 metafile = true
 
 [[files]]
@@ -1462,7 +1462,7 @@ metafile = true
 
 [[files]]
 file = "mods/toadlib.pw.toml"
-hash = "069b379286f02fd7b367f3e3183b7f37915b0ff760733741cc82b0cfc86385f9"
+hash = "fe28dc175431c8ac6207c6b2f2c7a0e5d9d872b48143399f86bcde6321a3cc0a"
 metafile = true
 
 [[files]]
