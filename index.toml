@@ -1427,6 +1427,11 @@ hash = "25f389c7915f1d394156b82522edd0ffd9b223b167a4f5929a9a6330850dc19a"
 metafile = true
 
 [[files]]
+file = "mods/streams-reflowing.pw.toml"
+hash = "55883199396efd8487abc36cb7d03e08a5d874ecaf6f61b1c0373a3d1266fc08"
+metafile = true
+
+[[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "b8fa811c6e333352e328e11bf28c86980653a833e092bfa66e16ddf16f803b51"
 metafile = true
@@ -1629,6 +1634,11 @@ hash = "8022465a31ea2a6b57e561aade7593cf9538daa160be20b19d4b8a68d44efbeb"
 [[files]]
 file = "resourcepacks/create-ultra-pbr.pw.toml"
 hash = "5e2d0668e33dc75d99c3b19ce86daf13488dd2b4a824a5d4ee5111063b2b5412"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "0fb23766919c354cfb5c5348329e7bac823dfd58d1a9660fcbfc0ab1506dc233"
 metafile = true
 
 [[files]]
