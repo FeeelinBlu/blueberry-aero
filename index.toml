@@ -54,7 +54,7 @@ hash = "58da5d4cf6a533a22479c5ce5acb1e20eceb5e9ff7f901b22cf374d290afc420"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "5e9d536dbdc7cd3ab715c9ae57c3d9e46915ed02b433029dec0b03c837d80066"
+hash = "4ecb1c71d408809cf439bf18fc6ae4f39cee927ab6022fb4d2498045ca629c69"
 
 [[files]]
 file = "config/sable_beyond/common.json"
