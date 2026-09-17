@@ -15,7 +15,7 @@ todo
 
 ### Custom Content
 
-- Icon/Logo
+- Final Icon/Logo
     - Datapack/Resource Pack icons
 - Splash Text
     

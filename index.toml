@@ -10,11 +10,15 @@ hash = "d1361de010840a4ea4d3a51c4fea6bfb91eb00693aaf7b4375c7ce38a4efd89b"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f428f5de3137267cacb9d74792897123f986a1ebdc268bedee7f449916b25ad0"
+hash = "aa971a9d19f677b6c2706876a0d58615b1537f9c1304a41d7ac7051d2e0d72af"
 
 [[files]]
 file = "config/betterdays-common.toml"
 hash = "968b28a8023a85398e1bbb94b4a1d52b51f83272e777d74c7541c1b3ed840a2b"
+
+[[files]]
+file = "config/coastersengineered-server.toml"
+hash = "93539dce39d723fc1e9b24b89b2f366a19d7d53bd4d64d53cf537a5aa351825c"
 
 [[files]]
 file = "config/create_submarine-common.toml"
@@ -30,7 +34,7 @@ hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "7d33e0352148d64a4f0d9b5b5d56c884fe1d57c74ab5713bca31c5dd43511522"
+hash = "430d45eb233249b2b306faa3bc141d28f37ae786834f8771f510acdcb5ce912f"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -51,10 +55,6 @@ hash = "58da5d4cf6a533a22479c5ce5acb1e20eceb5e9ff7f901b22cf374d290afc420"
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "5e9d536dbdc7cd3ab715c9ae57c3d9e46915ed02b433029dec0b03c837d80066"
-
-[[files]]
-file = "config/reliable_remover/remove_items.json"
-hash = "0c2f4f5faa94e4d01685bde36eb085666370682f88644603f5399a5c3cb0ead3"
 
 [[files]]
 file = "config/sable_beyond/common.json"
@@ -274,7 +274,7 @@ hash = "2cace215022a0955355c52152c2f221335e6afcd443f3902375b666fdd7dab90"
 
 [[files]]
 file = "configureddefaults/emi.json"
-hash = "43103b945789565d9a05807e72ff2f6fb10bcb5a627b70e702e510936e07fb04"
+hash = "da048f8a569d39488320dde6eaa2a90021d001b5af384ca6d7d05cc351f94517"
 
 [[files]]
 file = "configureddefaults/options.txt"
@@ -290,8 +290,8 @@ file = "datapacks/blueberryAero/pack.mcmeta"
 hash = "4fe3c03f44a027550c8da3da72e413803b8605e95df259d8e390aed3a29c96a1"
 
 [[files]]
-file = "datapacks/blueberryAero/pack.png"
-hash = "667b9c0fbebd7a2486400150e908472a44986b9bba88426a1ac44e14c293d52a"
+file = "icon.png"
+hash = "8022465a31ea2a6b57e561aade7593cf9538daa160be20b19d4b8a68d44efbeb"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -1604,11 +1604,15 @@ hash = "9ecec828b559fab18e11a41741c55e9a8fca48320bba4767a6ddb87bb17e2410"
 
 [[files]]
 file = "resourcepacks/blueberryAero/assets/minecraft/texts/splashes.txt"
-hash = "5d230b4664135b73e803e953a1ddc1b3fd5afa93167a09dc68bdf7c5e2df5571"
+hash = "a36b9868404b51a3645f8946ec5d248b28118e01ad9a8d45f993035e5f82bb89"
 
 [[files]]
 file = "resourcepacks/blueberryAero/pack.mcmeta"
 hash = "1ee7d50eec8c5d43eb1a922be0ca52f9e2a02cbff4d1174728bf1cbed802ad6f"
+
+[[files]]
+file = "resourcepacks/blueberryAero/pack.png"
+hash = "8022465a31ea2a6b57e561aade7593cf9538daa160be20b19d4b8a68d44efbeb"
 
 [[files]]
 file = "resourcepacks/create-ultra-pbr.pw.toml"

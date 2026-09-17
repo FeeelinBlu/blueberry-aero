@@ -5,8 +5,12 @@ It's like Minecraft, but better!
 Why is it called splash text?
 The cake is a lie!
 Her name is Caroline!
+Don't make lemonade!
+Joe Metri Dash!
+No Terra Blade included!
+...and his music was electric!
+Also try lilacs!
 I'm out of ideas!
-Mod List:
 0Pack2Reload!
 3d-Skin-Layers!
 Accessories!
@@ -160,7 +164,6 @@ ModernFix!
 Moog's Structure Lib!
 MoogsEndStructures!
 MoogsSoaringStructures!
-MoogsVoyagerStructures!
 Moonlight Lib!
 More Delight!
 Mouse Tweaks!
@@ -232,7 +235,6 @@ Tax Free Levels!
 Tectonic!
 ToadLib!
 Toast Control!
-Towns and Towers!
 Trek!
 TxniLib!
 Universal Bone Meal!
