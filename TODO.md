@@ -24,6 +24,15 @@ todo
 - Chunk/Sable Claims
 - Item Descriptions
 - Create Aeronautics: Stabilized
+- Aeronautics Propeller Blur
+- Create: Linear Bearing + Fix
+- Configure higher pressure cap for Aeronautics
+- Sable: Maced
+- Fix YYZ sort button placement
+- Discord RPC
+- Reliable Remover
+    - Grappling Hook
+    - Grappling Whisk
 
 ### Other
 
