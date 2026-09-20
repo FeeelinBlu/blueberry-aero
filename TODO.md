@@ -5,10 +5,12 @@ todo
 
 - Separate Sable Render Distance
 - Climbable Ropes
+- Comforts
 
 ### Changes
 
 - Configure Reliable EMI Groups
+- Sodium entity culling off
 - Reliable Remover
     - Grappling Hook
     - Grappling Whisk
@@ -21,7 +23,7 @@ todo
     - Coal Piece still obtainable
 - YYZ
     - Fix YYZ sort button placement
-    
+ 
 ### Removals
 
 - 
