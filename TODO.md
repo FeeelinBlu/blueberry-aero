@@ -6,6 +6,9 @@ todo
 - Separate Sable Render Distance
 - Climbable Ropes
 - Comforts
+- Polymorph
+    - (Alt: change vault component recipe)
+- EMI Loot
 
 ### Changes
 
