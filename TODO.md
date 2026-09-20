@@ -5,10 +5,12 @@ todo
 
 - Separate Sable Render Distance
 - Climbable Ropes
+- Comforts
 
 ### Changes
 
 - Configure Reliable EMI Groups
+- Sodium entity culling off
 
 ### Removals
 
@@ -31,8 +33,6 @@ todo
 - Sable: Maced
 - YYS
     - Fix YYZ sort button placement
-    - Recipe use all chests
-    - Change upgrade recipes
 - Discord RPC
 - Reliable Remover
     - Grappling Hook
