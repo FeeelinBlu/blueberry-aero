@@ -8,9 +8,9 @@ ServerEvents.recipes(event => {
             'LLL'
         ],
         {
-            L: 'minecraft:leather'
-            I: 'minecraft:iron_ingot'
-            C: 'c:#chests'
+            L: 'minecraft:leather',
+            I: 'minecraft:iron_ingot',
+            C: '#c:chests'
         }
     ).id('blueberryaero:iron_backpack')
     event.remove({ id: 'yyzsbackpack:gold_backpack' }) // Gold Backpack crafting
@@ -22,9 +22,9 @@ ServerEvents.recipes(event => {
             'NNN'
         ],
         {
-            N: 'naturalist:hide'
-            G: 'minecraft:gold_ingot'
-            C: 'c:#chests'
+            N: 'naturalist:hide',
+            G: 'minecraft:gold_ingot',
+            C: '#c:chests'
         }
     ).id('blueberryaero:gold_backpack')
     event.remove({ id: 'yyzsbackpack:diamond_backpack' }) // Diamond Backpack crafting
@@ -36,9 +36,9 @@ ServerEvents.recipes(event => {
             'HHH'
         ],
         {
-            H: 'mynethersdelight:hoglin_hide'
-            D: 'minecraft:diamond'
-            C: 'c:#chests'
+            H: 'mynethersdelight:hoglin_hide',
+            D: 'minecraft:diamond',
+            C: '#c:chests'
         }
     ).id('blueberryaero:diamond_backpack')
     event.remove({ id: 'yyzsbackpack:gold_backpack_smithing' }) // Gold Backpack smithing upgrade
