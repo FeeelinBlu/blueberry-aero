@@ -3,7 +3,8 @@ todo
 ## TODO
 ### Additions
 
-- 
+- Separate Sable Render Distance
+- Climbable Ropes
 
 ### Changes
 
@@ -28,11 +29,21 @@ todo
 - Create: Linear Bearing + Fix
 - Configure higher pressure cap for Aeronautics
 - Sable: Maced
-- Fix YYZ sort button placement
+- YYS
+    - Fix YYZ sort button placement
+    - Recipe use all chests
+    - Change upgrade recipes
 - Discord RPC
 - Reliable Remover
     - Grappling Hook
     - Grappling Whisk
+- Fix bundle incompatibility
+- Better Days
+    - Disable sleep clock icon
+    - Custom wake up message
+- Fix spyglass slot
+- Reliable Remover
+    - Coal Piece still obtainable
 
 ### Other
 
