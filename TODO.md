@@ -11,7 +11,19 @@ todo
 
 - Configure Reliable EMI Groups
 - Sodium entity culling off
-
+- Reliable Remover
+    - Grappling Hook
+    - Grappling Whisk
+- Fix bundle incompatibility
+- Better Days
+    - Disable sleep clock icon
+    - Custom wake up message
+- Fix spyglass slot
+- Reliable Remover
+    - Coal Piece still obtainable
+- YYZ
+    - Fix YYZ sort button placement
+ 
 ### Removals
 
 - 
@@ -31,19 +43,10 @@ todo
 - Create: Linear Bearing + Fix
 - Configure higher pressure cap for Aeronautics
 - Sable: Maced
-- YYS
-    - Fix YYZ sort button placement
 - Discord RPC
-- Reliable Remover
-    - Grappling Hook
-    - Grappling Whisk
-- Fix bundle incompatibility
-- Better Days
-    - Disable sleep clock icon
-    - Custom wake up message
-- Fix spyglass slot
-- Reliable Remover
-    - Coal Piece still obtainable
+- Create Dreams n' Desires disable:
+    - Handheld Drill
+    - Handheld Saw
 
 ### Other
 
