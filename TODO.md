@@ -7,8 +7,9 @@ todo
 - Climbable Ropes
 - Comforts
 - Polymorph
-    - (Alt: change vault component recipe)
+    - (Alt: change vault component, brass chute recipes)
 - EMI Loot
+- Accurate Block Placement Reborn
 
 ### Changes
 
@@ -22,10 +23,16 @@ todo
     - Disable sleep clock icon
     - Custom wake up message
 - Fix spyglass slot
-- Reliable Remover
-    - Coal Piece still obtainable
+- Remove Recipes for all Reliable Removered items
 - YYZ
     - Fix YYZ sort button placement
+- Ashen/Azalea vertical planks recipe fix
+- Create Dreams n' Desires disable:
+    - Handheld Drill
+    - Handheld Saw
+- Configure higher pressure cap for Aeronautics
+- Aeronautics Propeller Blur
+- Sable: Maced
  
 ### Removals
 
@@ -42,14 +49,9 @@ todo
 - Chunk/Sable Claims
 - Item Descriptions
 - Create Aeronautics: Stabilized
-- Aeronautics Propeller Blur
 - Create: Linear Bearing + Fix
-- Configure higher pressure cap for Aeronautics
-- Sable: Maced
 - Discord RPC
-- Create Dreams n' Desires disable:
-    - Handheld Drill
-    - Handheld Saw
+- squarema
 
 ### Other
 
