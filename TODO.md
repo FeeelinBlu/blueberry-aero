@@ -10,6 +10,10 @@ todo
     - (Alt: change vault component, brass chute recipes)
 - EMI Loot
 - Accurate Block Placement Reborn
+- Aeronautics Propeller Blur
+- Sable: Maced
+- Throwable Rope Connectors
+- Discord RPC
 
 ### Changes
 
@@ -31,8 +35,6 @@ todo
     - Handheld Drill
     - Handheld Saw
 - Configure higher pressure cap for Aeronautics
-- Aeronautics Propeller Blur
-- Sable: Maced
  
 ### Removals
 
@@ -50,8 +52,8 @@ todo
 - Item Descriptions
 - Create Aeronautics: Stabilized
 - Create: Linear Bearing + Fix
-- Discord RPC
-- squarema
+- squaremap
+- Create: Metallurgy
 
 ### Other
 
