@@ -2,142 +2,142 @@
   "controlPoss": {
     "HorseInventoryScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "BrewingStandScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "CrafterScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "MerchantScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "DispenserScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "LoomScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "BlastFurnaceScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "NautilusInventoryScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "StonecutterScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "FurnaceScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "EnchantmentScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "AnvilScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "SmithingScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "CraftingScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "ContainerScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ],
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "ShulkerBoxScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ],
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "CartographyTableScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "HopperScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "InventoryScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "BeaconScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "SmokerScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ],
     "GrindstoneScreen": [
       [
-        0,
-        0
+        -999,
+        -999
       ]
     ]
   }
