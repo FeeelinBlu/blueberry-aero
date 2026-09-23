@@ -4,16 +4,6 @@ todo
 ### Additions
 
 - Separate Sable Render Distance
-- Climbable Ropes
-- Comforts
-- Polymorph
-    - (Alt: change vault component, brass chute recipes)
-- EMI Loot
-- Accurate Block Placement Reborn
-- Aeronautics Propeller Blur
-- Sable: Maced
-- Throwable Rope Connectors
-- Discord RPC
 
 ### Changes
 

@@ -355,6 +355,11 @@ hash = "0aabd1822c63ef26c720c020921b0c4970636d05c1baa234635aea9661a7f4af"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-propeller-blur.pw.toml"
+hash = "7fd99e9561534a62906b7692b6de79d947c36687490d7a8aee5c51d06f85ee12"
+metafile = true
+
+[[files]]
 file = "mods/aerowear.pw.toml"
 hash = "32b347502c0d5ace4e418dabfa212f28576d3f0bab86bfd5df1b524e5b32449c"
 metafile = true
@@ -550,6 +555,11 @@ hash = "fdc5bb9c3d4c199541521e0cbb2cd23ea8dffa890d7431f9c03be29889c82df3"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
+metafile = true
+
+[[files]]
 file = "mods/compatibility-blooming-biosphere-tectonic.pw.toml"
 hash = "997b6dc1e11b009a8335997aad74193d343b76aca684eb429674a9221560dabd"
 metafile = true
@@ -585,6 +595,11 @@ hash = "9d6211af651095fc4be088a228f02973a028437b4b19c1483753e4fd4cf044d7"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-climbable-rope.pw.toml"
+hash = "8fa0f7462feaaf9cf6316db8878069424f382129d46b0733d419e9c8760e6f4b"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
 hash = "3796760ea6a51abcf64c36f01ecc41a078cb619c62b07b480ad0f052b7752b07"
 metafile = true
@@ -592,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-lift-patch.pw.toml"
 hash = "35b5f15ba14eac4d699ce4a80c2ea94104308d36a94b3f1f11a7a01b3e7b9e6f"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
+hash = "ede459754df771b7fed0268f983b67f9f98ccccd60df8958ffa49d28f0481106"
 metafile = true
 
 [[files]]
@@ -840,8 +860,23 @@ hash = "36433dafbe6ed4357ed48211a9112cd9fcdf232b72b64057622148bb7695536e"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "2d53b7007921f6174eb6d01f52aa91d8ff842add3a409828248ac91512889bcb"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "b53c40130b7c2f91237cf62480877414296fbea3525f2c824351c0c07f136ddb"
 metafile = true
 
 [[files]]
@@ -872,6 +907,11 @@ metafile = true
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "a141552cd69a3f953e0c7be4e9cb4b4dd0aa45bc5e6b09142ebf94184c905f45"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
@@ -1220,6 +1260,16 @@ hash = "8bf0bc2e8a6e334b0615f3799b86b86668dd3a2f5cd38fb76ccc18601e12cb65"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "d935e4ce118d15c88b10809df85e801f0e9577855f870f3c28e5a0bd5e7fecf6"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "3938d8ac6153b9482bd6dd7df737b6d680ebb83b1ab9758fe6bf82cc5bb9f44b"
 metafile = true
@@ -1252,6 +1302,11 @@ metafile = true
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "65be972259a876b111e469215641c649b444997f57542318aaf77adb3608edc9"
+metafile = true
+
+[[files]]
+file = "mods/reforged-accurate-block-placement.pw.toml"
+hash = "480e8e885c737f0f0f8be377f02e113c9ed9d34d8aa0eaf527eede799482239c"
 metafile = true
 
 [[files]]
@@ -1312,6 +1367,11 @@ metafile = true
 [[files]]
 file = "mods/sable-cool-rain.pw.toml"
 hash = "f373a8aed3307c0e45029eae1693e415b61074e7d44d27cbb5889eb9ef48f6e7"
+metafile = true
+
+[[files]]
+file = "mods/sable-maced.pw.toml"
+hash = "d79ec3a70bf268a8f2ba7883933cfca52175ff1e0904e9d77b13e155b7021453"
 metafile = true
 
 [[files]]
@@ -1427,6 +1487,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "d6c3ec9ea3b71101f797e03bea88479433d4f53441017e484c57fdc60a4ae344"
+metafile = true
+
+[[files]]
+file = "mods/srdp.pw.toml"
+hash = "c40cd6e94191418cc6f334ffc37d55f09064ab19623ea119b2e74c9688d82109"
 metafile = true
 
 [[files]]

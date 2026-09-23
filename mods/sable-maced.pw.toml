@@ -1,0 +1,13 @@
+name = "Sable: Maced"
+filename = "sablemaced-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h2yFbyRq/versions/iU3encX6/sablemaced-1.0.0.jar"
+hash-format = "sha512"
+hash = "21e16a10c6787b99f330429562bae568024e049326ad677df1f52542144433727c714fb3cbc32d0c845b66f78068d295879a4fab5e5a4307cd5d19df48101fb9"
+
+[update]
+[update.modrinth]
+mod-id = "h2yFbyRq"
+version = "iU3encX6"
