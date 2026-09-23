@@ -310,7 +310,7 @@ and this project adheres to Semantic Versioning.
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR)
 - [Yyz's Backpack](https://modrinth.com/mod/zO7tsTJN)
 - [Zeta](https://modrinth.com/mod/MVARlG2f)
-- [\[Compatibility] Blooming Biosphere & Tectonic](https://modrinth.com/mod/GDnm1VHj)
+- [[Compatibility] Blooming Biosphere & Tectonic](https://modrinth.com/mod/GDnm1VHj)
 - [create: things and misc](https://modrinth.com/mod/uWrs8XlB)
 - [oωo](https://modrinth.com/mod/ccKDOlHs)
 - [spark](https://modrinth.com/mod/l6YH9Als)
