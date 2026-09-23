@@ -8,23 +8,8 @@ todo
 ### Changes
 
 - Configure Reliable EMI Groups
-- Sodium entity culling off
-- Reliable Remover
-    - Grappling Hook
-    - Grappling Whisk
-- Fix bundle incompatibility
-- Better Days
-    - Disable sleep clock icon
-    - Custom wake up message
 - Fix spyglass slot
 - Remove Recipes for all Reliable Removered items
-- YYZ
-    - Fix YYZ sort button placement
-- Ashen/Azalea vertical planks recipe fix
-- Create Dreams n' Desires disable:
-    - Handheld Drill
-    - Handheld Saw
-- Configure higher pressure cap for Aeronautics
  
 ### Removals
 
@@ -42,7 +27,6 @@ todo
 - Item Descriptions
 - Create Aeronautics: Stabilized
 - Create: Linear Bearing + Fix
-- squaremap
 - Create: Metallurgy
 
 ### Other

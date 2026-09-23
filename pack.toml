@@ -1,12 +1,12 @@
 name = "Blueberry Flavored Aeronautics"
 author = "FeeelinBlu"
-version = "0.2.0"
+version = "0.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3f02d2b6b0b473a46bc2e65f1544b74df0b0573534a89fbea8774d642fd93be7"
+hash = "5ef1bc83500ff4c0fbfcba9c9eca4de395bd33769310fcb9dc08a26d4fca7ac0"
 
 [versions]
 minecraft = "1.21.1"

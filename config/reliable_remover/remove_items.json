@@ -56,6 +56,8 @@
             "dndesires:freezing_sail",
             "dndesires:sanding_sail",
             "dndesires:dragon_breathing_sail",
+            "dndesires:handheld_saw",
+            "dndesires:handheld_drill",
             "quark:ancient_tome",
             "hotstuff:link_relay",
             "hotstuff:copycat_sail",
@@ -71,7 +73,9 @@
             "aeronautics_utility_objects:damping_stress_bearing",
             "aeroworks:gyroscope",
             "createaddition:servo_motor",
-            "computercraft:command_computer"
+            "computercraft:command_computer",
+            "crittersandcompanions:grappling_hook",
+            "create_sa:grapplin_whisk"
         ]
     }
 ]

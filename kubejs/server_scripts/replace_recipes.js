@@ -1,4 +1,28 @@
 ServerEvents.recipes(event => {
+    event.remove({ id: 'quark:world/crafting/woodsets/ancient/vertical_ancient_planks' }) // Vertical Ashen Planks fix
+    event.shaped(
+        Item.of('quark:vertical_ancient_planks', 3),
+        [
+            'A',
+            'A',
+            'A'
+        ],
+        {
+            A: 'quark:ancient_planks'
+        }
+    ).id('blueberryaero:vertical_ancient_planks')
+    event.remove({ id: 'quark:world/crafting/woodsets/azalea/vertical_azalea_planks' }) // Vertical Azalea Planks fix
+    event.shaped(
+        Item.of('quark:vertical_azalea_planks', 3),
+        [
+            'Z',
+            'Z',
+            'Z'
+        ],
+        {
+            Z: 'quark:azalea_planks'
+        }
+    ).id('blueberryaero:vertical_azalea_planks')
     event.remove({ id: 'yyzsbackpack:iron_backpack' }) // Iron Backpack crafting
     event.shaped(
         'yyzsbackpack:iron_backpack',
