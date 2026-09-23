@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/tOVrxqLR/versions/dPlHyUJt/%5BNeoforge-1.21.1%5DAccurateblockplacement%201.0.0.jar"
-hash-format = "sha512"
-hash = "085371267f95869aedf62da8bab5deb59e7d2cfa91cdb6fab2fedaae424f22bd38b31dfbb8cc1d8509b87bd76494a6659f7714e5388c256270c57eca8f612936"
+hash-format = "sha1"
+hash = "d165a36e0af40daab17daf16214e60c3d70c58cb"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fJ183v3D/versions/iZflRKdV/SSRD-1.8.7-1.21.1.jar"
-hash-format = "sha512"
-hash = "fb09bb6799f2f9d8b051bc87920a49ee68319c358d0d23be5beaea444542be8336a52f71b57f81e8871df274fe2e1310121b90a3aded615421e84bcd6dfbae47"
+hash-format = "sha1"
+hash = "7da02fc5f783bedb55a29268e4c8ba7b0c3c9e6f"
 
 [update]
 [update.modrinth]
