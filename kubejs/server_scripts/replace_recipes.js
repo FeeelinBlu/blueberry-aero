@@ -79,4 +79,35 @@ ServerEvents.recipes(event => {
         'yyzsbackpack:gold_backpack',
         'minecraft:diamond'
     ).id('blueberryaero:diamond_backpack_smithing')
+    event.remove({ id: 'dndesires:crafting/handheld_drill' }) // Handheld Drill mechanical crafting
+    event.recipes.create.mechanical_crafting(
+        'dndesires:handheld_drill',
+        [
+            'BECD',
+            ' RA '
+        ],
+        {
+            A: 'create:andesite_alloy',
+            B: 'create:brass_ingot',
+            C: 'create:cogwheel',
+            D: 'create:mechanical_drill',
+            E: 'create_sa:steam_engine',
+            R: 'create:brass_casing'
+        }
+    ).id('blueberryaero:handheld_drill')
+    event.remove({ id: 'dndesires:crafting/handheld_saw' }) // Handheld Drill mechanical crafting
+    event.recipes.create.mechanical_crafting(
+        'dndesires:handheld_saw',
+        [
+            'AECS',
+            ' RA '
+        ],
+        {
+            A: 'create:andesite_alloy',
+            C: 'create:cogwheel',
+            E: 'create_sa:heat_engine',
+            R: 'create:andesite_casing',
+            S: 'create:mechanical_saw'
+        }
+    ).id('blueberryaero:handheld_saw')
 });

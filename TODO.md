@@ -3,13 +3,11 @@ todo
 ## TODO
 ### Additions
 
-- Separate Sable Render Distance
+- 
 
 ### Changes
 
 - Configure Reliable EMI Groups
-- Fix spyglass slot
-- Remove Recipes for all Reliable Removered items
  
 ### Removals
 
@@ -25,9 +23,6 @@ todo
 
 - Chunk/Sable Claims
 - Item Descriptions
-- Create Aeronautics: Stabilized
-- Create: Linear Bearing + Fix
-- Create: Metallurgy
 
 ### Other
 
@@ -38,6 +33,7 @@ todo
 - pack.toml version
 - BCC config version
 - Splash Text mod list
+- Discord application icon
 - Paxi
     - Datapacks
     - Resource Packs

@@ -4,44 +4,53 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog,
 and this project adheres to Semantic Versioning.
 
-## Unreleased (for 0.3.0)
+## [0.3.0-beta] - September 23rd 2026
 ### Added
 
-- Climbable Ropes for Create Aeronautics
-  - playerAnimator
-- Comforts
-- Polymorph
-- EMI Loot
-- EMIffect
-- EMI Enchanting
-- EMI Addon: Extra Mod Integrations
-- [Reforged] Accurate Block Placement
-- Aeronautics Propeller Blur
-- Sable: Maced
-- Create Aeronautics: Throwable Rope Connector
-- Simple Rich Discord Presence
-- squaremap
+- [Aeronautics Propeller Blur](https://modrinth.com/mod/uKFK3MBp)
+- [Climbable Ropes for Create Aeronautics](https://modrinth.com/mod/jImqv1M5)
+  - [Player Animator](https://modrinth.com/mod/gedNE4y2)
+- [Comforts](https://modrinth.com/mod/SaCpeal4)
+- [CraftPresence](https://modrinth.com/mod/DFqQfIBR)
+- [Stabilized](https://modrinth.com/mod/vRmgUJhP)
+- [Create Aeronautics: Throwable Rope Connector](https://modrinth.com/mod/9xiCbKmM)
+- [LinearBearing](https://modrinth.com/mod/ZTwCjE7O)
+  - [Linear Bearings Fix](https://modrinth.com/mod/xLxyRluH)
+- [Create Metallurgy](https://modrinth.com/mod/Soft45xC)
+- [Polymorph](https://modrinth.com/mod/tagwiZkJ)
+- [EMI Loot](https://modrinth.com/mod/qbbO7Jns)
+- [EMIffect](https://modrinth.com/mod/705gWllI)
+- [EMI Enchanting](https://modrinth.com/mod/wbWoo11W)
+- [Extra Mod Integrations](https://modrinth.com/mod/bpRHnWUb)
+- [KubeJS Create](https://modrinth.com/mod/T38eAZQC)
+- [Accurate BlockPlacement](https://modrinth.com/mod/tOVrxqLR)
+- [Sable: Maced](https://modrinth.com/mod/h2yFbyRq)
+- [Separate Sable Render Distance](https://modrinth.com/mod/fJ183v3D)
+- [squaremap](https://modrinth.com/mod/PFb7ZqK6)
 
 ### Changes
 
-- Disabled Sodium entity culling by default
-- Items removed with Reliable Remover
-  - Critters and Companions: Grappling Hook
-  - Create Stuff 'N Additions: Grapplin Whisk
-  - Create: Dreams n' Desires: Handheld Saw
-  - Create: Dreams n' Desires: Handheld Drill
-- Better Days config
+- Better Days
   - Disabled sleep clock
   - Added custom wake up message
+- Create
+  - Increased Schematicannon speed
+- Create Aeronautics
+  - Increased air pressure cap
 - KubeJS
   - Fixed recipes for Azalea/Ashen Vertical Planks
-  - Removed recipes for all removed items
-- Fixed YYZ sort button placement offscreen
-- Increased air pressure cap for Create Aeronautics
+  - Rebalanced recipes for Dreams n' Desires Handheld Drill/Saw
+- Reliable Remover
+  - Critters and Companions: Grappling Hook
+  - Create Stuff 'N Additions: Grapplin Whisk
+- Sodium
+  - Disabled entity culling by default
+- yyz's backpack
+  - Fixed sort button placement offscreen
 
 ### Removals
 
-- Easy Shulker Boxes
+- [Easy Shulker Boxes](https://modrinth.com/mod/gA5euN8S)
 
 ## [0.2.0-beta] - September 16th 2026
 

@@ -15,7 +15,9 @@ I'm out of ideas!
 3d-Skin-Layers!
 Accessories!
 Accessories Compatibility Layer!
+Accurate BlockPlacement!
 Aeronautics Camera Sync!
+Aeronautics Propeller Blur!
 Aerowear!
 Amendments!
 Amplified Nether!
@@ -49,18 +51,22 @@ Chat Heads!
 ChatAnimation!
 Cherished Worlds!
 Chunky!
+Climbable Ropes for Create Aeronautics!
 Cloth Config v15 API!
 Clumps!
 Coasters: Engineered!
 Colorwheel!
+Comforts!
 Concurrent Chunk Management Engine!
 Configured Defaults!
 Controlling!
 Cool Rain!
 CoroUtil!
+CraftPresence!
 Create!
 Create Aeronautics!
 Create Aeronautics Lift Fix!
+Create Aeronautics: Throwable Rope Connector!
 Create Aeronautics: Toolgun!
 Create Aeronautics: Transmission & Linkage!
 Create Big Cannons!
@@ -73,6 +79,7 @@ Create Dynamic Lights!
 Create Encased!
 Create Gadgets & Gizmos Bundled!
 Create Grappling Hooks!
+Create Metallurgy!
 Create Propulsion: Simulated!
 Create Railways Navigator!
 Create Slice & Dice!
@@ -112,13 +119,16 @@ DragonLib!
 Drip Sounds!
 Dynamic FPS!
 EMI!
-Easy Shulker Boxes!
+EMI Enchanting!
+EMI Loot!
+EMIffect!
 Ender's Delight!
 Enderman Overhaul!
 Entity Model Features!
 Entity Texture Features!
 EntityCulling!
 Euphoria Patcher!
+Extra Mod Integrations!
 Fancy Entity Renderer!
 FancyMenu!
 Farmer's Delight!
@@ -148,10 +158,12 @@ Just Enough Items!
 Kiwi Library!
 Konkrete!
 Kotlin for Forge!
-Krypton FNP!
 KubeJS!
+KubeJS Create!
 Leaves Be Gone!
 Legendary Tooltips!
+Linear Bearings Fix!
+LinearBearing!
 Lithium!
 Lithostitched!
 Lootr!
@@ -185,6 +197,8 @@ Personality!
 Pick Up Notifier!
 Placebo!
 Platform!
+Player Animator!
+Polymorph!
 Polytone!
 Presence Footsteps (NeoForge)!
 PrickleMC!
@@ -208,12 +222,14 @@ Sable Cleanup Tools!
 Sable Ragdolls!
 Sable Sublevels on Xaero's Maps!
 Sable: Cool Rain!
+Sable: Maced!
 Sable: Ragdoll Corpse!
 Saturn!
 Screenshot to Clipboard!
 Seamless Loading Screen!
 Searchables!
 Second Chance (Forge)!
+Separate Sable Render Distance!
 Separated Leaves!
 Shadow Drop!
 Simple Music Control!
@@ -226,6 +242,8 @@ Sodium Extra!
 SparseStructures!
 Spyglass Improvements!
 Staaaaaaaaaaaack!
+Stabilized!
+StreamsReflowing!
 Structure Layout Optimizer!
 Strut Your Stuff!
 SubBorder!

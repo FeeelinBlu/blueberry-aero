@@ -9,4 +9,6 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'create_aeronautics_toolgun:survival_structure_tool' })
     event.remove({ id: 'create_aeronautics_toolgun:magnetic_gun' })
     event.remove({ id: 'create_aeronautics_toolgun:portable_structure_container' })
+    event.remove({ type: 'createmetallurgy:bulk_melting' })
+    event.remove({ type: 'createmetallurgy:entity_melting' })
 });

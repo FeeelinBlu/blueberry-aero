@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "b623529ed9ff058e2c143bc43a9c24602597832544f9b50bbfe7e1303d0a9a81"
+
+[[files]]
 file = "config/CSC/config.toml"
 hash = "3ebd4b13bf784da58a486c8600d1a01624c5498530714ce4a6f99be835223350"
 
@@ -10,15 +14,23 @@ hash = "d1361de010840a4ea4d3a51c4fea6bfb91eb00693aaf7b4375c7ce38a4efd89b"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "aa971a9d19f677b6c2706876a0d58615b1537f9c1304a41d7ac7051d2e0d72af"
+hash = "67795b863d0fa4b3b1def0082545bc79f3f8ff29da8d7772de824e4ad94e83f3"
 
 [[files]]
 file = "config/betterdays-common.toml"
-hash = "968b28a8023a85398e1bbb94b4a1d52b51f83272e777d74c7541c1b3ed840a2b"
+hash = "f68bf8b94462bee413f54f23189cae3bebba227ec3039997d8362088eb7bdce9"
 
 [[files]]
 file = "config/coastersengineered-server.toml"
 hash = "93539dce39d723fc1e9b24b89b2f366a19d7d53bd4d64d53cf537a5aa351825c"
+
+[[files]]
+file = "config/craftpresence.json"
+hash = "b5df31dbd67a506d2e8659ebe3f2b6203eaae50e5c1705b91e404d2b1c3e0b87"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "898c971349be323ec4e5ab5f91a6a5a2a08fa4e1613856671654e9a1cd157b22"
 
 [[files]]
 file = "config/create_submarine-common.toml"
@@ -34,7 +46,7 @@ hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "430d45eb233249b2b306faa3bc141d28f37ae786834f8771f510acdcb5ce912f"
+hash = "38be67123d8029564486c982b5376f195277a9699d6e65cae5bff936ed6bc1d1"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -58,7 +70,7 @@ hash = "012511d82435307b204f83353fcd68ed8c5961466e8a02585447e1cb54d02a3e"
 
 [[files]]
 file = "config/reliable_remover/remove_items.json"
-hash = "dd6fc73345887272162d905e7138ee2bf23617822fd92e5832ee498a4d99470f"
+hash = "db3b6c6a32977530082a2659a3e49cf7900af2ea3b5fbf2eb67640d3d5cc8dd8"
 
 [[files]]
 file = "config/sable_beyond/common.json"
@@ -98,11 +110,11 @@ hash = "7df67c254d7b56e8f9699aa45208bc84031e634a04b06c3978179aba856b482d"
 
 [[files]]
 file = "config/yyzsbackpack/control/curios.json"
-hash = "7818fa7794f888e5c2e3d6e73390e7f9e589b17f899374d79bc1961cab83d85d"
+hash = "348c7c16269b5474590b5f1f9748eb472c5c4ef332b9fbe8df7bcfc62f13abb8"
 
 [[files]]
 file = "config/yyzsbackpack/control/default.json"
-hash = "3faab4b886c624db9ce64f0364328fce75d0e787f308fa119936ca3919d8b9b6"
+hash = "dc2f07867e03acf9108b051149eeced9337c5d729a0709931a9a317698346dfe"
 
 [[files]]
 file = "configureddefaults/config/accessories.json5"
@@ -237,6 +249,10 @@ file = "configureddefaults/config/skinlayers.json"
 hash = "b7daec7bdfc872f99d66d63b57a6905a03b9eba5a4fbf2fa4271d3f7971a0a9a"
 
 [[files]]
+file = "configureddefaults/config/sodium-options.json"
+hash = "c9f3c752ae40dd0548af1190df9f8d2195cdbb569661af39adc7b308516d6e1d"
+
+[[files]]
 file = "configureddefaults/config/xaero/lib/client.cfg"
 hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
 
@@ -302,6 +318,10 @@ hash = "2f2834f5ae99cb75bd29f9041f799484b800e16bec174ea34400f5b22b90be2a"
 metafile = true
 
 [[files]]
+file = "datapacks/blueberryAero/data/sable/dimension_physics/500-limit.json"
+hash = "fb07784a596c3c4189b0fe863f854642adcbac9d95a07183d4fea18f2a8d0c3a"
+
+[[files]]
 file = "datapacks/blueberryAero/pack.mcmeta"
 hash = "4fe3c03f44a027550c8da3da72e413803b8605e95df259d8e390aed3a29c96a1"
 
@@ -327,7 +347,11 @@ hash = "f71e2f86588b423cc39b9f7b4777c8b097457a4486920b0c18afd617ddb3c9d5"
 
 [[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
-hash = "8a3d380bc4622245e61a89f7ca99d1ecdbd8cfb5189516b7110702e64cf08558"
+hash = "7982c306b92521aeb586862b06f54cc96e1ac6522fcbff1325df9212459120be"
+
+[[files]]
+file = "kubejs/server_scripts/replace_recipes.js"
+hash = "f51373a8c361b4ab0ed996287a68170382f28c6cbfa6aaff856d098ffea8bc28"
 
 [[files]]
 file = "mods/0pack2reload.pw.toml"
@@ -595,6 +619,11 @@ hash = "9d6211af651095fc4be088a228f02973a028437b4b19c1483753e4fd4cf044d7"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "ef9a6da83be95d05a9328f74e3ef7378d7a5c82f191001bce69efb220f6c2498"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
 hash = "8fa0f7462feaaf9cf6316db8878069424f382129d46b0733d419e9c8760e6f4b"
 metafile = true
@@ -710,6 +739,11 @@ hash = "b483034d2937bc54edb6761ebc08200b62e13733bb0c996dc49d9f222f3c1133"
 metafile = true
 
 [[files]]
+file = "mods/create-metallurgy.pw.toml"
+hash = "12a90beeb5a46b46dfdc7ba2a5510107fbc60915e6cf1af129d365e20b99ce2d"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "6703953b3e84d3e9624260789446609bb01d60a9521f8c58b9f4e0fb418cccf1"
 metafile = true
@@ -737,6 +771,11 @@ metafile = true
 [[files]]
 file = "mods/create-sound-of-steam.pw.toml"
 hash = "7e985edf36d3483d3a85acef45571bf2bc048f0f6c41023cc4b8542678974a69"
+metafile = true
+
+[[files]]
+file = "mods/create-stabilized.pw.toml"
+hash = "bd397410476dacdcd9d69efc8e246d28d9f858cb967192d487bbf71dbdd7d489"
 metafile = true
 
 [[files]]
@@ -1055,6 +1094,11 @@ hash = "bd4158b05f3804f7fd27ca2086cac47e8987bcd88b985c2717aa7b23a453ecd5"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "8d095248e97893ad12ee197b94bef44a843e1f3db6657f625e7dae85f62c50e1"
 metafile = true
@@ -1067,6 +1111,16 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "cc28ab269bc42207b69acfd7b1a2ebd2d8f6f1974c14bf9d9ebcec73c14eb7f8"
+metafile = true
+
+[[files]]
+file = "mods/linear-bearing.pw.toml"
+hash = "e92248ff7e47d94175ee315550946858967e9f1076653468a1d10a6aa53a4d82"
+metafile = true
+
+[[files]]
+file = "mods/linear-bearings-fix.pw.toml"
+hash = "210e07b6cd9ef4bbd7bb6327f5c1903f2075a684240cc4f7a629d4afe73fa4e6"
 metafile = true
 
 [[files]]
@@ -1311,7 +1365,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "0d98fe8013e29ea5174d060da5a8e9df50b14dcb1f546875ca474e396f8baa19"
+hash = "5bfff454ca642cfe6fd04a6272a00391a0f521cc1524a269228ce59df5ba3aac"
 metafile = true
 
 [[files]]
@@ -1486,12 +1540,12 @@ metafile = true
 
 [[files]]
 file = "mods/squaremap.pw.toml"
-hash = "2025a366af748e77e7df6fea1d736a8bdf05dc97503eb64bf13964f7bc2136b2"
+hash = "e13f7564c66d7cd8fcad6e7c973cec01c51298445385f65a995d2d469e08497d"
 metafile = true
 
 [[files]]
-file = "mods/srdp.pw.toml"
-hash = "c40cd6e94191418cc6f334ffc37d55f09064ab19623ea119b2e74c9688d82109"
+file = "mods/ssrd.pw.toml"
+hash = "4a4c0c54b3b38ac660b9c06d8dc8e51ed3e2efc6dd94ad3e807a48146a420873"
 metafile = true
 
 [[files]]
@@ -1694,7 +1748,7 @@ hash = "9ecec828b559fab18e11a41741c55e9a8fca48320bba4767a6ddb87bb17e2410"
 
 [[files]]
 file = "resourcepacks/blueberryAero/assets/minecraft/texts/splashes.txt"
-hash = "a36b9868404b51a3645f8946ec5d248b28118e01ad9a8d45f993035e5f82bb89"
+hash = "c93b6f0ee989e43d95797bb07e3734540311c0fe78b9a099d9e3661714f6759e"
 
 [[files]]
 file = "resourcepacks/blueberryAero/pack.mcmeta"
