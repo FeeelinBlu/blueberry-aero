@@ -13,6 +13,7 @@
     "item:powergrid:creative_voltage_source",
     "item:powergrid:creative_current_source",
     "item:powergrid:creative_resistor",
+    "item:powergrid:debug",
     "item:create_sa:creative_filling_tank",
     "item:numismatics:creative_vendor",
     "item:simulated:creative_physics_staff",
@@ -73,6 +74,6 @@
     "item:createpropulsion:turpentine",
     "item:createpropulsion:pine_resin",
     "item:moonlight:spawn_box",
-    "item:create_submarine:arresting_hook"
+    "item:create_submarine:arresting_hook",
   ]
 }
